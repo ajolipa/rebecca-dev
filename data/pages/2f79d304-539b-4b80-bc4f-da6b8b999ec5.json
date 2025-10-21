@@ -1,0 +1,79 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "004bce4c-3548-43a4-a658-db0cc029c762",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Above is the full event, and here is a clip:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "004bce4c-3548-43a4-a658-db0cc029c762",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 600,
+      "end": 900,
+      "file": "8b323334-d6bb-435b-b96e-77192917afd6",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Embedded Event",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "embedded-event",
+  "created_at": "2025-10-21T02:41:23.934Z",
+  "created_by": "ajolipa",
+  "updated_at": "2025-10-21T02:41:23.934Z",
+  "updated_by": "ajolipa"
+}
