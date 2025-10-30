@@ -1,1 +1,55 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"ajolipa","avatar_url":"https://avatars.githubusercontent.com/u/110847635?v=4","admin":true}],"project":{"github_org":"ajolipa","is_private":false,"title":"Rebecca Dev","description":"Dev testing project","language":"en","slug":"rebecca-dev","creator":"ajolipa","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[],"tags":[]},"created_at":"2025-10-21T02:31:32.358Z","updated_at":"2025-10-30T01:20:54.115Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"c18c7905-77e7-4e9e-8107-f59f5c92464c":{"content":[],"created_at":"2025-10-21T02:31:32.398Z","created_by":"ajolipa","title":"Rebecca Dev","updated_at":"2025-10-21T02:31:32.398Z","updated_by":"ajolipa","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["c18c7905-77e7-4e9e-8107-f59f5c92464c"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "ajolipa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110847635?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "ajolipa",
+    "is_private": false,
+    "title": "Rebecca Dev",
+    "description": "Dev testing project",
+    "language": "en",
+    "slug": "rebecca-dev",
+    "creator": "ajolipa",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-10-21T02:31:32.358Z",
+    "updated_at": "2025-10-30T02:39:01.124Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "c18c7905-77e7-4e9e-8107-f59f5c92464c": {
+      "content": [],
+      "created_at": "2025-10-21T02:31:32.398Z",
+      "created_by": "ajolipa",
+      "title": "Rebecca Dev",
+      "updated_at": "2025-10-21T02:31:32.398Z",
+      "updated_by": "ajolipa",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "c18c7905-77e7-4e9e-8107-f59f5c92464c"
+  ]
+}
