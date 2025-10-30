@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "6fcf23c0-5e9c-4d26-94af-276d79bde1dc": {
+      "label": "auto",
+      "file_url": "https://media.dlib.indiana.edu/master_files/w9505341r/auto.m3u8",
+      "duration": 2133.239,
+      "file_type": "Audio"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-10-30T00:29:58.140Z",
+  "created_by": "ajolipa",
+  "label": "CD 2",
+  "updated_at": "2025-10-30T00:29:58.140Z",
+  "updated_by": "ajolipa",
+  "rights_statement": ""
+}
