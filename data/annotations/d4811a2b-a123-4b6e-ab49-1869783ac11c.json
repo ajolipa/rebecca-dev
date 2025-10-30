@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "no",
+  "annotations": [
+    {
+      "uuid": "946d9f55-f34e-4ff7-9305-c09afddd242b",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump rekord støtte og forsvare Planned Parenthood offentlig finansierte "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6a209516-8609-4fa5-bbb9-8b36bb57bda6",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " helsevesenet la ulovlig romvesen tar jobbene våre "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "46f2b6b0-bfec-4da5-81df-3651a1fab0fc",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " som ser ut for oss lastebilsjåførene og Steelworkers i "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "76a33a2c-fcdd-477c-a691-4757e26a950e",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mekanikere har sett sine lønninger ikke vokse mens levekostnadene går opp som "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "70edc95e-0a93-42ab-9840-99924da80276",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " president "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "43da1e7b-f3e2-46b9-8e44-54b01cbbbd0b",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare på pullbacks regulatorer og vi vil passere en enkel flat skatt og "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "75d551ce-af82-4fa1-b6dd-5ab48ff83bd5",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " avskaffe IRS egentlig skjer vi skal se en mulighet Ted Cruz for "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "da2fbef4-c204-4423-b122-afc50efa7265",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " våre arbeidsplasser er jeg Ted Cruz og jeg godkjenne denne meldingen "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

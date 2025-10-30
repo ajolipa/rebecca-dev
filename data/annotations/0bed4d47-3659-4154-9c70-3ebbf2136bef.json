@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "uz",
+  "annotations": [
+    {
+      "uuid": "0344bfa9-e04d-41b2-bf24-f2ec24ed497b",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald karnayi rekord qo'llab-quvvatlash va rejalashtirilgan otalik hukumati tomonidan moliyalashtiriladigan himoya "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a5faf928-e090-48b5-9b5e-8a458092fa9c",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " sog'liqni saqlash, noqonuniy musofirlar bizning ish o'rinlari oladir "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "eb3bb3ae-dc8c-45d2-9e98-2053bd799c21",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kim biz uchun ham yuk mashinalari drayverlarga va Chelik qarab yotipti "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ee0a07f4-3cb9-4f58-8725-07eb14041a1f",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " hayot qiymati sifatida tashkil ketadi esa mexanikasi o'smaydi ajrlarini ko'rdik "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c3f95311-dd8f-4fba-b0a9-2fb12c5f239d",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " prezident "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0a22ad22-d40a-4bbc-9030-4e312953b3f0",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " pullbacks muharriridan haqida Fikricha va biz oddiy tekis soliq o'tadi va "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2888a884-a28c-4651-86a2-6912f9fd6bb4",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " IRS, albatta, qarang biz imkonini Ted Cruz uchun gonna ku ketadi bekor "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "aa3ea21f-835d-4a00-b5be-bcdc42a42d73",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Bizning ish o'rinlari men Ted Cruz emasman va men bu xabarni tasdiqlash "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

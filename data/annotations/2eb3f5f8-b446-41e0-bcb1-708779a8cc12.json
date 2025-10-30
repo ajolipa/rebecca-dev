@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "si",
+  "annotations": [
+    {
+      "uuid": "72cbcc2a-822d-4358-80c2-e8b5884ddad1",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ඩොනල්ඩ් ට්රම්ප් වාර්තාව සහයෝගය හා සැලසුම්ගත මාතෘත්වය ආන්ඩුව-අරමුදල් ආරක්ෂා "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3f7feaef-1312-4884-9fc0-645585398556",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " සෞඛ්ය සේවා නීති විරෝධී විදේශිකයන් අපේ රැකියා බලමු "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c04fdbaa-8bd2-4427-987b-2088e6d6d62a",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " කරන දී ට්රක් රථ රියදුරන් හා වානේ කම්කරු අපට සිදු හොයන "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "880427f3-67c0-4dce-a598-9eaa3785f69b",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " යාන්ත්ර විද්යාව ජීවන වියදම ලෙස ඉහළ යන අතර, ඔවුන්ගේ වැටුප් වර්ධනය නොවන දැක ඇති "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ee69a725-7e51-4a97-8ea4-2116e46f908f",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " සභාපති "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d02b1c57-a8c3-491a-905b-1990f0f24f2f",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " pullbacks නියාමන මත Obamacare අපි සරල පැතලි බදු සමත් වනු ඇත හා "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fc9c0d1e-0321-4728-9047-d6ee19caf8a9",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " දේශීය ආදායම් සේවයේ ඇත්තටම අපි යන්නේ අහෝසි කිරීමට අවස්ථාවක් ටෙඩ් කෲස් යන්නේ බලන්න යන්නේ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fe67b0df-e899-4f1b-870e-e5a7dcc3a354",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " අපේ රැකියා මම ටෙඩ් කෲස් සහ මම මේ පණිවුඩය අනුමත "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

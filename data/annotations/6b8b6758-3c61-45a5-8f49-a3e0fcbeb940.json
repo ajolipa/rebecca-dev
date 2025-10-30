@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "lv",
+  "annotations": [
+    {
+      "uuid": "0841ea9c-d337-42ab-bc44-87c4a01df38f",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump ieraksts atbalsts un aizstāvēt ģimenes plānošanas valdība finansēta "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9245a9bf-29e8-41ef-8c15-a672339d2df3",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " veselības aprūpes ļaut nelegāli ārvalstnieki veikt mūsu darbu "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "aabc7e86-ace8-4796-b4cc-558b573fb708",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kas meklē, kas par mums ar kravas automašīnu vadītājiem un steelworkers šajā "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bced31fd-f322-4db0-bef5-17857b97c406",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mehānika esmu redzējis savas algas neaug, bet dzīves izmaksas iet uz augšu, kā "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5273d7c9-4dbb-4b54-9877-087f59fc6640",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " prezidents "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "dfde4b05-b831-4501-94a4-6322647dfe71",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare cenu kritumos regulatoriem un mēs caurlaide vienkāršu dzīvoklis nodokli un "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "740675b8-5bfc-40d4-9d7a-b7927d78c973",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " atcelt IRS īsti notiek, mēs esam gonna redzēt iespēju Ted Cruz par "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9cc6bc07-bd06-4586-a70d-f1bba27c8325",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mūsu darbu es esmu Ted Cruz un es apstiprināt šo ziņojumu "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

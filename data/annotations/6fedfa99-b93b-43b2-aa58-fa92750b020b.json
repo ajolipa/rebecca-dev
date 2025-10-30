@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "xh",
+  "annotations": [
+    {
+      "uuid": "9e0e752b-b252-48d3-9c22-79cff8ef795b",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " inkxaso irekhodi akhusele Olucetyiweyo Ngumzali ukuba urhulumente ngemali-Donald Trump ngayo "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3ca21342-7657-484e-bda7-3c7e99c4703e",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " zempilo makhe njengabaphambukeli mthethweni uthathe imisebenzi yethu "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5e9ffe63-1a63-40b6-bd24-4a8b2901af85",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ngubani kwabakhangela kuthi abaqhubi ilori kunye steelworkers kwi "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6c200199-6cae-474a-a1e6-7ca7335bd1c7",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ubuchwephetshe ndizibonile umvuzo wabo lungakhuli ngelixa iindleko zokuphila unyuka njengoko "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b3fe9ec9-cb62-4cfa-a04b-a16fd3b2c567",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " umongameli "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a9d37fc7-2915-4eb3-b43d-369558c70a9c",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare kwi pullbacks lawuli kwaye siya kudlula irhafu elula tyaba kwaye "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "706cc993-1d7a-46b6-9470-eaddb548f45d",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Ukuphelisa ngenene Baie uza phezu siya gonna ubona ithuba Ted Cruz "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ae5559ae-ee66-4398-bfe0-eebd63aa3110",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " imisebenzi yethu Mna Ted Cruz mna lamkele lo myalezo "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

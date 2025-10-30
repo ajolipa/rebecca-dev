@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "ny",
+  "annotations": [
+    {
+      "uuid": "8d4943f0-a1f3-4606-89fe-2e31051f3179",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Lipenga mbiri thandizo ndi kuteteza Chokonzekera Ana a boma ndalama zolipirira "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3c33b3a8-269e-4242-bf65-8d6e163b0e3c",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " zaumoyo tiyeni alendo oletsedwa kutenga ntchito zathu "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "80f02a64-40d8-4f3b-9bea-29e597db61d6",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " amene amafunafuna ife madalaivala a magalimoto ndi steelworkers mu "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "936e6b22-668c-408a-b5b8-c881c35f4ea7",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " zimango aona malipiro awo kukula pamene mtengo wa moyo ukupita mmwamba monga "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1d8d9e2d-0b96-49a6-8207-4bebf78ca809",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " pulezidenti "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2322cc51-5f64-439e-a95d-b0c06fb0c306",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare pa pullbacks ndi owongolera ndi ife ndidzadutsa lathyathyathya msonkho yosavuta "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "62d10e35-4c13-41d1-96fa-fb5eefeb0095",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " yothets IRS zilidi ife adza onani mwayi Ted Cruz kwa "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0b958598-4c19-4f72-ad62-c818f820cdcf",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ntchito yathu Ndine Ted Cruz ndi ine amavomereza uthenga uwu "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

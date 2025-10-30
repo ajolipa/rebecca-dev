@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "ne",
+  "annotations": [
+    {
+      "uuid": "553d651c-83ac-4b22-92be-a32ceb165153",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " डोनाल्ड ट्रम्प गरेको रेकर्ड समर्थन र रक्षा योजना आमाबाबु सरकार-आर्थिक सहायता "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ab7bed68-22fb-433f-b74b-96c665e8c526",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " स्वास्थ्य हेरविचार अवैध परदेशी हाम्रो जब गरौं "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "be0e404b-0bc2-4ed4-bc39-dd3b26d1c13d",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " को मा ट्रक चालक र steelworkers जसले हामीलाई लागि बाहिर देख गर्नुपर्छ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c63346c3-b278-48c9-ba34-b16ade0decbe",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " जीवित लागत रूपमा माथि जान्छ गर्दा मेकानिक्स बढ्न आफ्नो ज्याला देखेको छु "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "346bb2c8-b2ac-44b3-bfa6-fbde26469cb7",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " अध्यक्ष "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8cd13593-42d2-4762-967f-d680d776d397",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " pullbacks को नियामकहरु मा Obamacare र हामी एक सरल सपाट कर पारित गर्नेछ र "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0dfc42c2-c9ed-4f49-bf12-9f068300e4f0",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " को आईआरएस साँच्चै हेर्न मौका टेड क्रुज लागि हामी जाँदै उठाउन् gonna हुनुहुन्छ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a450a17c-1d14-45db-b919-8ac97583b719",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " हाम्रो जब म टेड क्रुज छु र म यो सन्देश अनुमोदन "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

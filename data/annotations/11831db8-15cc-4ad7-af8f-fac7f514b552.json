@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "de",
+  "annotations": [
+    {
+      "uuid": "b8dee168-3244-4d8a-80eb-b40961decb30",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump Rekord Unterstützung und verteidige Planned Parenthood der Regierung geförderte "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bae8741b-e677-4177-b15a-6fcf5bb11b7c",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Gesundheitsversorgung lassen illegale Ausländer unsere Arbeitsplätze nehmen "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3db86db4-c123-4d4e-85fb-7c45490a9ddf",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " wer schaut aus für uns, die Lkw-Fahrer und die Stahlarbeiter in der "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b28fcdca-d99b-4ea3-acaa-5b209b78aa09",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Mechaniker haben ihre Löhne gesehen nicht wachsen, während die Lebenshaltungskosten steigt als "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a53cda18-ead6-4677-bd23-9e50115b355e",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Präsident "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0a84b5d9-5786-4563-90e2-e7b3b6695674",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare auf Pullbacks die Regulierungsbehörden und wir werden eine einfache flache Steuer passieren und "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "93ffafb5-89a1-4cb2-bec5-87105b042a2c",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Schaffen Sie das IRS los wir werden sehen die Chance, Ted Cruz wirklich für "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8bc39503-88a4-47df-9ffb-ca8d7b108a22",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " unsere Arbeit bin ich Ted Cruz und ich genehmige diese Nachricht "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

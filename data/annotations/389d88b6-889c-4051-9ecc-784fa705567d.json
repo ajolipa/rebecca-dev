@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "ga",
+  "annotations": [
+    {
+      "uuid": "3bff5a1a-929e-41f7-b5d9-66d2afe8201f",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " tacaíocht taifead Donald Trump agus Cosain Pleanáilte Tuismitheoireacht ar maoinithe ag an rialtas "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "36589c76-a6c4-4cb0-ac29-d01521baa7f6",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " cúram sláinte a ligean eachtrannaigh mídhleathach a chur ar ár post "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "22d4dbd9-cbf1-42ca-bfb3-422e07f62fb6",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " a bhfuil sé ag breathnú amach dúinn na tiománaithe trucail agus na steelworkers sa "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fbafb677-c3ff-45ce-ba84-a96ab677fca2",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Meicnic anuas tá a gcuid pá ag fás agus téann an costas maireachtála suas mar "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9510eab7-05fc-41e6-9899-b45b005b12a5",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " uachtarán "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "89c3c328-65c8-46e3-a03d-443acc34c787",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Beidh Obamacare ar pullbacks na rialtóirí agus táimid ag pas cáin comhréidh simplí agus "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5581317a-7ed7-4a33-b34b-b5544fba5c94",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Deireadh a chur leis an IRS ag dul i ndáiríre ar táimid ag dul a fheiceáil deis Ted Cruz do "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3642cd7b-fcf3-477d-80b4-37a84a42c26d",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ár post Tá mé Ted Cruz agus a cheadú mé an teachtaireacht seo "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

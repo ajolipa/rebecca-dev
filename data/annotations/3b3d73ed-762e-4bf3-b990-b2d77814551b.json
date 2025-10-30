@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "ms",
+  "annotations": [
+    {
+      "uuid": "31c34170-8a85-492f-b7d0-03969a281c2d",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " sokongan rekod Donald Trump membela Planned Parenthood yang dibiayai oleh kerajaan "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0782ca1b-720e-460c-93e3-7056e4a7e49b",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " penjagaan kesihatan membolehkan pendatang haram mengambil kerja kita "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fc51e728-826c-4040-89c7-076c47405dd0",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " siapa yang mencari keluar untuk kita pemandu lori dan pekerja keluli dalam "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "868284f3-fb45-4926-a02e-ed354d728953",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mekanik telah melihat gaji mereka tidak berkembang manakala kos sara hidup sebagai "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "922d738d-32ff-43e6-a736-18313b3f544a",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Presiden "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8982007d-e8eb-4fda-8d83-18dadbf469a6",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare di pullbacks pengawal selia dan kami akan lulus cukai rata yang mudah dan "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "30e22113-d5f9-4a7f-9e6e-9476ae50fe1d",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Memansuhkan IRS sebenarnya berlaku kita akan melihat peluang Ted Cruz untuk "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d5a26ffe-931b-4f35-b4fd-8ca076a7857f",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kerja kita Saya Ted Cruz dan saya meluluskan mesej ini "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

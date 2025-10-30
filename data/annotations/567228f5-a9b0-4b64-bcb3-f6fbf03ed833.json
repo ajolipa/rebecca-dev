@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "zu",
+  "annotations": [
+    {
+      "uuid": "edc1afcd-d2c8-4fa5-b125-bd6b0696db88",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump amarekhodi eseke futhi avikele Planned Parenthood uhulumeni ngezimali ezishisayo "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "561f81e6-5d04-40f3-ab58-72796a403194",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ukunakekelwa kwezempilo ake njengabafokazi ngokungemthetho imisebenzi yethu "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9d738510-f08e-4a68-96f7-b6c7972d20aa",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ubani ofuna out kithi abashayeli bamaloli kanye steelworkers in the "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4aed77c6-6977-4f50-8612-96175085846b",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Mechanics baye babona inkokhelo yabo ayibi ngenkathi izindleko zokuphila ukhuphuka njengoba "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "263084b4-8c24-463e-8cc5-7befe2da69c8",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " umongameli "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cb58f3fc-bc32-409c-85d0-7f9a82a36804",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare on pullbacks the nabalawuli kanye siyophumelela ovivinyweni intela elula flat and "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ba6531ba-65f9-42bb-a94e-5d43744ba14c",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " uqede IRS kwenzekani ngempela siyakucela Gonna ubone ithuba Ted Cruz "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9a5efc91-2cf4-47b4-a5b0-11a424b4d385",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " imisebenzi yethu Ngikhathazekile Ted Cruz futhi ngiziphumelelisile lo mlayezo "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

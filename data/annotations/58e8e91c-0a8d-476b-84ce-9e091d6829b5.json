@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "it",
+  "annotations": [
+    {
+      "uuid": "ccc5cc66-67b1-442d-abc9-18fc56cec27f",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " sostegno record di Donald Trump e difendere di pianificazione familiare finanziati dal governo "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a2896bab-d18d-4638-b954-57a2faf3e205",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " l'assistenza sanitaria lascia clandestini prendono i nostri lavori "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "dfa30f54-df65-4c4b-9113-48624b9a38de",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " che sta cercando per noi i camionisti e le acciaierie in "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "611b4de2-c1f1-48a8-b229-1988723fd848",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " meccanici hanno visto i loro salari non crescono, mentre il costo della vita sale come "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "498a0d4d-b5c3-42cb-b64b-da6488ed5310",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Presidente "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cf4d3411-622f-430a-9dbd-c1e57754c53a",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare su pullback i regolatori e passeremo un semplice flat tax e "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "aa86b949-9145-46f8-9800-84a629fab19d",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Abolire l'IRS succedendo realmente stiamo andando vedere un'opportunità Ted Cruz per "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "33774774-8aa1-49cd-950c-4bba8de9d735",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " i nostri lavori sono Ted Cruz e approvo questo messaggio "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

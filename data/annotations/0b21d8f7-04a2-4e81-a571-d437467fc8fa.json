@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "af",
+  "annotations": [
+    {
+      "uuid": "cf19c740-163b-4ccd-8c40-1ee018070d48",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump se rekord ondersteuning en verdedig Planned Parenthood se regering befonds "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0342c657-33ee-45a3-927f-3e20675a44e8",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " gesondheidsorg laat onwettige immigrante neem ons werk "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7b1f3d4d-546b-4f3d-93e2-74c50b913939",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " wie se uitkyk vir ons die vragmotorbestuurders en die steelworkers in die "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "71775ae2-3bf0-4894-9897-d9e4b05acf17",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " meganika het hul loon nie groei gesien terwyl die lewenskoste styg as "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f96ac8bf-c3c0-44bb-9603-a11b2a06f3c8",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " president "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cb51accb-6b81-4678-ae24-696cf9041074",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare met terugsakkings die reguleerders en ons sal 'n eenvoudige plat belasting te slaag en "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "27fade4a-f0aa-41f5-9194-58f2bf1fab57",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " skaf die IRS werklik aan die gang ons gaan sien 'n geleentheid Ted Cruz vir "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ce9ef3c5-7ca2-476a-8651-64439984f899",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ons werk Ek is Ted Cruz en ek keur hierdie boodskap "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

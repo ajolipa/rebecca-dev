@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "eo",
+  "annotations": [
+    {
+      "uuid": "a7de581f-20d4-49d7-b039-978af2099d01",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump rekordo subteno kaj protektas Planned Parenthood la registar-financita "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d4893fa0-fd80-485f-b3cd-a5f1565cdc35",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " sano lasu kontraŭleĝaj eksterteranoj niajn laborpostenojn "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "468298e7-6b16-4986-8fe2-a6a545f9a251",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Kiu rigardas eksteren por ni la camioneros kaj la ŝtallaboristoj en la "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fe41db7d-278b-489b-a4b1-44c6ec745c0f",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mekaniko vidis iliajn salajrojn ne kreskos dum la vivkostoj iras supren kiel "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "41825330-3b90-4845-ae68-f90f2eacba45",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " prezidanto "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1d1f9209-1d4c-4d11-a072-0a02b0bc19dd",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare sur pullbacks la reguligistoj kaj ni pasos simpla plata imposto kaj "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "78e0f34a-ad25-4e74-bd86-86a4854ee486",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " abolicii la IRS vere okazas ni gonna vidas ŝancon Ted Cruz por "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "586ecbf1-ef9e-4076-b13b-c720fca845e9",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " niaj laborlokoj mi Ted Cruz kaj mi aprobas tiun mesaĝon "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

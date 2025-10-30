@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "lt",
+  "annotations": [
+    {
+      "uuid": "63f0b843-e46a-458f-984e-d66a8ed9cc60",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump įrašų palaikymas ir ginti planuojamos tėvystės vyriausybė finansuoja "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b55ddf16-35bb-41a1-ae23-7f2a0ea95a1f",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " sveikatos priežiūros tegul neteisėtą užsieniečių priimti mūsų darbo vietas "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c316dddf-344a-4810-b143-26e4d44028a7",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kas ieško už mus sunkvežimio vairuotojai ir plieno konstrukcijų į "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "dce113fc-8f2e-4248-8fc7-2664cc1e969c",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mechanika mačiau jų darbo užmokestis neauga, o pragyvenimo lygis pakyla, kaip "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "699d219b-5a5e-495f-bdf3-1cf91d1e263e",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " prezidentas "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b846d2df-6a03-4024-b1d3-68e8ef9ab029",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare pullbacks reguliavimo ir mes bus perduoti paprastą plokščią mokesčių ir "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "588fb6c0-997f-46e0-8eb8-542b0670bb97",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " panaikinti IRS tikrųjų vyksta, mes gonna mato galimybę Tedas Cruz dėl "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3d9d2a45-4b24-418d-bdc8-744e222c4364",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Mūsų darbo aš Tedas Cruz ir aš patvirtinti šį pranešimą "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

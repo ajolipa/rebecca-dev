@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "sl",
+  "annotations": [
+    {
+      "uuid": "f432158e-5b84-4228-b6b1-efebcd463eed",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Zapis podpora Donald Trump in zagovarjajo Načrtovano starševstvo vlada financira "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2034aa31-7397-43f8-9b55-b9d3c155d11a",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " zdravstveno varstvo naj nezakonitih tujcev bo naša delovna mesta "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "95bf2924-9036-4053-89ee-6a36a2c6402a",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kdo skrbi za nas voznikov tovornjakov in jeklarjev v "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1b582d27-e946-4b2f-879a-81321a10382e",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mehaniki so videli njihove plače ne rastejo, medtem ko so stroški življenja gre gor kot "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7b62778a-571f-4951-b9e6-b86d56e2051b",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " predsednik "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1d196cb9-d8d6-4e86-9478-bb3914158547",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare na pullbacks regulatorjev in bomo mimo preprosto enotno davčno stopnjo in "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ffe628f2-db8d-4758-94dc-ab56fd88e1e1",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Odpraviti IRS v resnici dogaja bomo videli priložnost Ted Cruz za "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8a91ebd0-040a-4a96-a953-f7394f6bac9d",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " naša delovna mesta sem Ted Cruz in odobravam to sporočilo "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

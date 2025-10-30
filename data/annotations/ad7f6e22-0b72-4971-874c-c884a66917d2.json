@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "mn",
+  "annotations": [
+    {
+      "uuid": "8ffeb340-feed-4ebe-ba24-d896240dc023",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump-ийн рекорд дэмжлэг, Төлөвлөж буй эцэг эх-ын засгийн газрын санхүүжилтээр хамгаалах "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3c84d3c8-25b3-4ecf-9660-ab02facbe7bb",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Эрүүл мэндийн хууль бус харь бидний ажлын байр авч үзье "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "98a21ba0-5b1d-49d2-8a4f-65cfd9d27485",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " хэн нь ачааны машины жолооч, steelworkers бидэнд анхаарал тавьж байгаа юм "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a0cd9e47-a32d-43c0-9896-9ce7c2df87fd",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " харин амьжиргааны өртөг болгон руу явдаг механизм нь тэдний цалин ургаж байдаг юм биш үзсэн "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5fdf43c2-cb4b-4030-9cea-e5213b6532a2",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ерөнхийлөгч "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "463777d4-3860-49c6-a7e8-328852ebac68",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " pullbacks зохицуулагч дээр Obamacare, бид энгийн хавтгай татвар өнгөрөх болно, "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "40a442de-2930-4371-a84e-640e47308039",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " IRS нь үнэхээр боломжийг Тед Круз бид явж устгах үзнэ ээ дээ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5e4b351d-2f3b-4020-821c-885869a14f63",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Манай ажлын байр шинээр Би Тед Круз байна, би энэ мэдээг батлах "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

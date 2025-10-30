@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "am",
+  "annotations": [
+    {
+      "uuid": "74b74aff-7938-477e-966c-80d16b31f4da",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ዶናልድ መለከት ዘገባ ድጋፍ እና የታቀደ ወላጅ መንግስት የገንዘብ ይከላከሉ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cd2cafe6-cb1f-484e-80aa-0aea08b46ff3",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " የጤና እንክብካቤ ወጥ መጻተኞች የእኛን ሥራዎች እንመልከት "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "03ebe7de-3210-4ddc-abf4-b0c29409767d",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ስለ እኛ ወደ ውስጥ ያለውን የጭነት መኪና አሽከርካሪዎች እና steelworkers ወደ ውጭ ሲመለከቱ ነው "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8a7eae82-fbc4-46b2-a3e0-e7535fce4432",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " የኑሮ ወጪ እንደ ወጣ ሳለ መካኒኮች እንዲያድጉ እንጂ ደመወዝ አይቻለሁ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a249cb37-35fe-42f2-935b-7045144c656c",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ፕሬዚዳንት "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "72aa15c5-ab85-4943-b3e6-00565afe5514",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " pullbacks በ ከተቆጣጠሪዎችና ላይ ተጠቃሚእንደሚሆኑ እና ቀላል የቁርጥ ግብር ያልፋሉ እና "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bd2f04ab-abbd-4b11-b6d1-5dafad078dce",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " የ IRS በእርግጥ ማየት እኛ ላይ አጋጣሚ ቴድ ክሩስ ለ ኩርንችት ላይ ነን ይሄዳሉ ለመሻር "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a05a59eb-c459-4b90-a269-c9862c9219f9",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " የእኛን ስራዎች እኔ ቴድ ክሩስ ነኝ እና ይህን መልዕክት ለማጽደቅ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

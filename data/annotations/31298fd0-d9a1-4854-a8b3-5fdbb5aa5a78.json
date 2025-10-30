@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "sw",
+  "annotations": [
+    {
+      "uuid": "92e9d789-22ff-41fd-8578-508286ee6671",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump rekodi msaada na kutetea Planned Parenthood ya unaofadhiliwa na serikali "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "85df53b1-1f55-49e5-8d48-6bc775fe0d57",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " huduma za afya basi wageni haramu kuchukua ajira zetu "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b325d1f3-75a7-4a39-bdfb-d2e5cbe8c84c",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ambaye ni kuangalia nje kwa ajili yetu madereva wa malori na steelworkers katika "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fb84d27f-798e-47be-a69c-7194b19452ff",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mechanics tumeona mishahara yao si kukua wakati gharama za maisha unaendelea hadi kama "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "84fd8a67-2467-4e4d-a66c-d3330decf258",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " rais "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bae2697f-11ed-4e05-ab53-ccdffe1527bc",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare juu ya pullbacks wasanifu na sisi kupita kodi gorofa rahisi na "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2e91d27f-5138-4e4f-9669-537de93b2499",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kukomesha IRS kweli kinachoendelea sisi ni gonna kuona fursa Ted Cruz kwa "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5c4dcc7a-0aaa-416d-8633-9ae5c61075df",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kazi zetu mimi nina Ted Cruz na mimi kupitisha ujumbe huu "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

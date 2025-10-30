@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "es",
+  "annotations": [
+    {
+      "uuid": "3e0e1183-9245-4f6b-a3ec-1aa5008eecc4",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " compatibilidad con el registro de Donald Trump y financiado por el gobierno de Planificación de la Familia defienda "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ca03fee3-5fa4-40c6-b380-240ba4d072b0",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " cuidado de la salud deje extranjeros ilegales toman nuestros trabajos "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1655b537-aaa3-4595-b5f5-bac3d2e561d0",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ¿quién está mirando hacia fuera para nosotros los camioneros y los trabajadores del acero en el "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7d405f84-e6ce-4a4a-8006-397977927261",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mecánicos han visto sus salarios no crecen mientras que el costo de vida aumenta a medida "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7a02c13b-6bb2-4268-aa96-f9182575684a",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " presidente "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3b40f251-eff8-4c09-9131-f5937518e9aa",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare en retrocesos los reguladores y vamos a pasar a un impuesto fijo simple y "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "925e2e0d-2662-4a9f-a510-bcc973d728d2",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " abolir el IRS pasando realmente vamos a ver una oportunidad para Ted Cruz "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "38b04b23-dc9a-4673-8b55-a0b29e88d991",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " nuestros trabajos Soy Ted Cruz y apruebo este mensaje "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

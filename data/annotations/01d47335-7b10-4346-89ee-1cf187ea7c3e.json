@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "mr",
+  "annotations": [
+    {
+      "uuid": "8ea22e57-5233-4d65-b2f6-ca917cbda8fb",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " डोनाल्ड ट्रम्प विक्रम समर्थन आणि नियोजित Parenthood च्या सरकारी अनुदानीत रक्षण "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ef7f1cb3-90e2-4e0d-9f7f-4c4fbfcb5d0b",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " आरोग्य बेकायदेशीर एलियन आमच्या नोकर्या घेऊ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "396d8df4-7ba8-4257-bc1b-75d90e7a9a5a",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " कोण आम्हाला शोध ट्रकचालक आणि steelworkers आहे "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5a1515de-9b53-43a5-a60a-8f5186914fd1",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " जीवनावश्यक खर्च म्हणून जातो, तर यांत्रिकी वाढतात नाही वेतन पाहिले आहे "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d98434c9-89a1-4302-bc19-1b25e683550b",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " अध्यक्ष "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d8715e62-d03f-4cea-be03-5248290f21d0",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " pullbacks रेग्युलेटर वर Obamacare आणि आम्ही एक साधी फ्लॅट कर पास होईल आणि "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "13aa9563-0b4f-437b-8a22-6e0153433f4b",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " आयआरएस खरोखर संधी टेड क्रुझ पाहू आपण नेमके रद्द चुकीचे वाटते आहोत "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "452b983e-a630-4875-af1d-3fee377bdd29",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " आमच्या नोकर्या मी टेड क्रुझ असतो आणि मी हा संदेश मंजूर "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

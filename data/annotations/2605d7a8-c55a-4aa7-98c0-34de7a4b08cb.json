@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "ca",
+  "annotations": [
+    {
+      "uuid": "1ecbfaa5-cef8-4b6d-b162-44fd4738ed88",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " compatibilitat amb el registre de Donald Trump i finançat pel govern de Planificació de la Família defensi "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6c4a0718-8f9b-4c0b-9037-a084a44ade85",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " cura de la salut deixi estrangers il·legals prenen els nostres treballs "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "44577469-3652-47bb-9780-1455e4feb6e7",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Qui està mirant cap a fora per a nosaltres els camioners i els treballadors de l'acer al "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "95d5b8f6-9c10-43e3-9f81-9a67c2099db9",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mecànics han vist els seus salaris no creixen mentre que el cost de vida augmenta a mesura "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1c5f22d6-947b-443d-9951-760635efaaec",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " president "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "26be69d6-9ede-48ac-a11f-0a78256540cf",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare en retrocessos els reguladors i anem a passar a un impost fix simple i "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e0478c1c-9549-4f35-acd2-7155ee331f1b",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " abolir l'IRS passant realment anem a veure una oportunitat per Ted Creu "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0189d21f-7539-4081-9c5a-9cd4960f2810",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " els nostres treballs Sóc Ted Cruz i aprovo aquest missatge "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

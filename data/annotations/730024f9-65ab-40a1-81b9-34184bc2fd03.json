@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "st",
+  "annotations": [
+    {
+      "uuid": "540a3687-c8f4-4933-931a-5ee09487bb63",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald galaotega ga lonaka a rekoto tšehetso le emela rerile Motsoali oa 'muso-tšehetsoa "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1bc4d57c-a575-4e37-8cbf-9b5521386b71",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " tlhokomelo ea bophelo lumella bajaki seng molaong nka sa jobs rona "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "30e834cc-33f6-4465-a01d-d2156376d676",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mang ea batla tsoa bakeng sa rōna sa bakhanni ba literaka le steelworkers ka "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ce6487dd-2b50-4f30-ad45-fc6b12e3bd6b",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " nyenyenyane bone moputso oa bona oa eseng hōle ha a ntse a litšenyehelo tse holimo tsa bophelo nyolohelang joalokaha "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d49df0a9-3911-4649-82f7-07bdedf0fa97",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mopresidente "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0a5ef99f-2e49-480d-95fd-fc313f2fdbb7",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare hodima pullbacks ea balaoli 'me re tla fetisa a bataletseng lekhethong tumellanong le bonolo le le "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "402c5686-1130-4ba2-a1b3-71c7de494260",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " felisa tse IRS hlile etsahalang re ntse u gonna go bona e le monyetla oa Ted Cruz bakeng "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ff4b0207-be51-43dc-a8c4-444314b87177",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " sa jobs rona ke Ted Cruz 'me ke ananela molaetsa ona "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

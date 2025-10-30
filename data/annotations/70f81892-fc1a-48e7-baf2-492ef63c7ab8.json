@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "lo",
+  "annotations": [
+    {
+      "uuid": "79326ca7-9613-4789-aef0-da4c11d337df",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ສະຫນັບສະຫນູນການບັນທຶກ Donald Trump ແລະປ້ອງກັນການວາງແຜນຄອບຄົວຂອງລັດຖະບານໄດ້ຮັບທຶນຈາກ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "801b13e3-ba63-4b2f-bdf0-8bfcc8262d77",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ການດູແລສຸຂະພາບໃຫ້ມະນຸດຕ່າງດາວທີ່ຜິດກົດຫມາຍເອົາວຽກເຮັດງານທໍາຂອງພວກເຮົາ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "465c27a4-2a93-4ab7-b113-bb64961f6c2b",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ທີ່ຊອກຫາອອກສໍາລັບພວກເຮົາຂັບລົດບັນທຸກແລະ Steelworkers ໃນ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "10d732f3-f142-4dd7-89ab-62f98bdb412b",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ກົນໄກການໄດ້ເຫັນຄ່າແຮງງານຂອງເຂົາເຈົ້າໄດ້ຂະຫຍາຍຕົວໃນຂະນະທີ່ຄ່າໃຊ້ຈ່າຍດໍາລົງຊີວິດໄດ້ເພີ່ມຂຶ້ນເປັນ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "373d2b05-b600-4558-b41a-63676608f3c2",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ປະທານປະເທດ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b14a5878-79df-40b7-8726-2e28d18873f7",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare ສຸດ pullback ລະບຽບການຕ່າງໆແລະພວກເຮົາຈະຜ່ານພາສີແບນງ່າຍດາຍແລະ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b1196e25-ebe7-462b-ad18-19932d352998",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ລົບລ້າງການ IRS ກໍ່ບໍ່ກ່ຽວກັບພວກເຮົາກໍາລັງ gonna ເບິ່ງໂອກາດ Ted Cruz ສໍາລັບ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9ceb052c-42dc-4bda-9d9c-54389b3523e2",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ວຽກເຮັດງານທໍາຂອງພວກເຮົາຂ້າພະເຈົ້າ Ted Cruz ແລະຂ້າພະເຈົ້າອະນຸມັດຂໍ້ຄວາມນີ້ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

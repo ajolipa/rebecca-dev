@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "iw",
+  "annotations": [
+    {
+      "uuid": "07a222df-a4d1-4350-863a-223d0e1d34a5",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " תמיכת השיא של דונלד טראמפ ולהגן של ההורות המתוכננת הממשלה במימון "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a56349e5-99ff-4621-b70b-5013186f018f",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " הבריאות לתת שב\"חים לקחת עבודות שלנו "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "516385b6-2060-4666-811e-da03f8a4dd69",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " מי דואג לנו את נהגי משאיות ואת עובדי המתכת ב "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e4719909-4cb2-4a2f-81ec-c769b09831ba",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " מכניקה ראתה שכרם לא לגדול בעוד יוקר המחיה עולה כמו "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "52b9e880-a714-4af2-a6c3-b735135940bd",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " נָשִׂיא "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "54c3ea66-5e75-4ea4-97fb-0f64029abc70",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare על נסיגות הרגולטורים ואנחנו נעבור שיעור מס אחיד פשוט "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f9aa2499-0e7b-460e-8116-f165b71739b5",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " לבטל את מס הכנסה באמת קורה שאנחנו הולכים לראות הזדמנות טד קרוז עבור "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "106abe0a-420e-469c-b9d6-94a23e3081c4",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " העבודות שלנו אני טד קרוז ואני לאשר את ההודעה "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "cy",
+  "annotations": [
+    {
+      "uuid": "34d222fc-e36c-42bb-874a-9290b6fd2c90",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " cefnogaeth record Donald Trump ac amddiffyn ariennir gan y llywodraeth rhiant a gynlluniwyd yn "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "80d081a3-b75a-43fc-a495-92cfa729bbef",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " gofal iechyd yn gadael i estroniaid anghyfreithlon yn cymryd ein swyddi "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "450c3400-261c-455a-9db1-6225aea68efc",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " pwy sy'n edrych allan ar ein cyfer y gyrwyr lori a gweithwyr dur yn y "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "24dd195e-cb2c-4da4-b5f7-ed8b8b461e3a",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mecaneg wedi gweld eu cyflogau beidio tyfu tra bod y costau byw yn codi fel "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "80be6d32-7d97-46c2-97fa-4a01090e5e5e",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " lywydd "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a3bffbaa-f67c-4e0c-ab82-c376e8765436",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Bydd Obamacare ar pullbacks rheoleiddwyr ac y byddwn yn rhoi treth fflat syml a "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fd72109e-1985-4458-8f17-85aa095f2a33",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Diddymu'r IRS wir yn mynd ar ein bod yn gonna gweld cyfle Ted Cruz i "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ebafb915-bd45-4788-97cc-57bf166a82d1",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ein swyddi Rwy'n Ted Cruz ac yr wyf yn cymeradwyo'r neges hon "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "bg",
+  "annotations": [
+    {
+      "uuid": "e61f9913-e9c4-48af-b153-85ed20cedf1f",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " запис подкрепа Доналд Тръмп и защитава Планирано родителство е финансирана от правителството "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a573d0eb-7988-43aa-a0bf-c6aa5ae45ed3",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " здравеопазване нека незаконно пребиваващи чужденци вземат нашите работни места "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2bd020e2-6e0c-4581-b485-bbec38795d10",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " който се грижи за нас шофьорите на камиони и стоманодобива в "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "819c0f2f-55b1-4282-8f66-a454d8e24daf",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " механика са видели заплатите им не растат, докато цената на живота върви нагоре, както е "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "27365bad-52e9-47cc-8b16-6e8babf8d625",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " президент "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "053746a0-28e0-4384-9a60-4039d57cb30b",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare на pullbacks регулаторите и ние ще мине просто плосък данък и "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e77ac388-8296-44d9-9068-d1d7b25162ee",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " премахване на IRS наистина се случва ние ще видим една възможност Тед Круз за "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d4f850f6-7555-418d-bf51-0a4d4b74a619",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " нашите работни места съм Тед Круз и одобрявам това съобщение "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

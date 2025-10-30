@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "gl",
+  "annotations": [
+    {
+      "uuid": "34ca0459-fb74-4de9-b484-9909a246630d",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " O apoio ao rexistro de Donald Trump e defender-financiado polo goberno de Planned Parenthood "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a794f75c-9e6f-4b83-8312-9deb78305f35",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " coidados de saúde deixe estranxeiros ilegais tomar nosos empregos "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "73f6d206-0156-41e5-b2d4-f1037e541299",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " que está mirando para nós os camioneiros e os metalúrxicos en "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3e92b2aa-be16-40bc-8105-35306ff6725a",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mecánica viron os seus salarios non crecen, mentres que o custo da vida sobe a medida "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ea88fbdb-f499-4d4c-9e29-120f581f5bfd",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " presidente "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "905cc89e-da6b-4be1-b4e0-c8154dc2db1e",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare en pullbacks os reguladores e imos pasar por un imposto fixo simple e "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ebd1d9ec-0a78-47c4-95c0-d2faafbc78e0",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " abolir o IRS realmente está a suceder nos veremos unha oportunidade Ted Cruz para "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e486f02d-3bac-42ae-9723-e80966c9a96f",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " nosos traballos que son Ted Cruz e eu aprobo esta mensaxe "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

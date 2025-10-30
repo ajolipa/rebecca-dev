@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "mk",
+  "annotations": [
+    {
+      "uuid": "1c1249ce-1c80-4766-9578-8ee931fc45f5",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " рекорд поддршка на Доналд Трамп и да ги бранат на Планирано родителство, финансирани од владата "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ec0e83c2-b995-4f83-9454-42f58dfd00c3",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " здравствена заштита да илегални имигранти се нашите работни места "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f8a0d048-1772-482b-8343-e340fc4f3aa4",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " кој е во потрага за нас возачите на камиони и steelworkers во "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "723b0c9c-dbf2-42ac-97e9-db480fc9be49",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " механика видовме нивните плати не растат, додека трошоците за живот се зголемува како "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "687359be-40a5-42ec-8449-08d314673e2a",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " претседател "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f824f425-2e51-45cc-ae47-323cd3d11f66",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare на pullbacks регулаторите и ние ќе помине едноставен рамен данок и "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7bde4c25-0a32-44ad-9eed-e16f5e98e4ad",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Укинување на УЈП навистина се случува ние ќе видите можност Тед Круз "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3873da16-9ecd-4df3-aa93-fecfc268b4f3",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " нашата работа сум Тед Круз и дека ги оправдувам оваа порака "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

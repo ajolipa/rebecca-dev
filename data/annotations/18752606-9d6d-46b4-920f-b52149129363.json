@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "km",
+  "annotations": [
+    {
+      "uuid": "9c70b966-8ccb-4e50-ae9a-bbcc91165ebd",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ការគាំទ្រលោក Donald Trump របស់កំណត់ត្រានិងខ្សែការពាររបស់គ្រោងទុកជាម្ដាយបានរដ្ឋាភិបាលផ្តល់ជំនួយ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "92f79663-f301-48b5-9894-880ae7558e19",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ការថែទាំសុខភាពអនុញ្ញាតឱ្យជនអន្ដោប្រវេសន៍ខុសច្បាប់ដែលទទួលយកការងាររបស់យើង "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "54f9a9dd-b603-473c-a6ff-49056c9048e0",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ដែលកំពុងសម្លឹងរកមើលចេញសម្រាប់ពួកយើងអ្នកបើកបររថយន្តនិង steelworkers ក្នុង "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5a806342-6272-451b-9d70-b54bff16f2e8",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " មេកានិចបានមើលឃើញការកើនឡើងប្រាក់ឈ្នួលរបស់ពួកគេមិនខណៈដែលតម្លៃនៃការរស់ឡើងជាការ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "00e8e0ed-c97a-4152-a65d-9f11b2c68cab",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ប្រធាន "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c0659b66-6f72-46a9-92e9-0bf06823ffaa",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare នៅលើបោះជំហានថយក្រោយនិយ័តករហើយយើងនឹងហុចពន្ធផ្ទះល្វែងសាមញ្ញនិង "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "191e6697-f056-4feb-ab29-a7009a87d020",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " លុបបំបាត់ IRS បានពិតជានឹងនៅលើយើងនឹងមើលឃើញពីឱកាស Ted Cruz បានសម្រាប់ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bb007108-ea93-47bb-a729-d97b37a13b54",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ការងាររបស់យើងខ្ញុំពិតជា Ted Cruz បានហើយខ្ញុំបានអនុម័តសារនេះ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "ja",
+  "annotations": [
+    {
+      "uuid": "5ed0eb21-3eba-487b-8918-618071ab19f6",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ドナルド・トランプのレコードのサポートと家族計画の政府出資を守ります"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e9e42805-c6e6-4301-9b1e-7ce5fecef885",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ヘルスケアは、不法滞在者が私たちの仕事を見てみましょう"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ce95fe3f-74f9-445f-83c9-8bc8944afc90",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "誰が私たちのためでトラック運転手や鉄鋼労働の外を見ています"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "24c97ad6-9290-4eab-a9b2-3b096bf628c9",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "生活費として上がる一方でメカニックが成長しない彼らの賃金を見てきました"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e7742eee-7a0d-4439-a2c8-ea13f284e9e8",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "大統領"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9906a594-e478-446f-8089-f39f017b08a8",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "プルバック規制当局にオバマ政権による医療保険改革と我々は単純なフラット税を通過し、 "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "38e480e4-bf96-4a57-8e32-747d8ed91eaf",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " IRSは本当に私たちに行く廃止するための機会テッド・クルーズのつもり参照しています"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ac032924-d752-469e-aa77-5891f74af6d9",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "私たちの仕事私はテッド・クルーズだと私は、このメッセージを承認します"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

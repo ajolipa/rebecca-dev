@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "ro",
+  "annotations": [
+    {
+      "uuid": "cb6fd53f-4feb-4d8a-b73f-6404f8169518",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " sprijin record de Donald Trump si-finantate de guvern OCROTI Planned Parenthood "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c5be4cb5-e205-4e16-a44a-c52834b334bb",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " de îngrijire a sănătății lăsa străinilor ilegali ia locurile de muncă "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4f91e6d9-75f1-488e-be23-0076e20a232b",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " care cauta pentru noi șoferii de camioane și Steelworkers în cadrul "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b54d902a-31fe-4691-8afe-29586dd97975",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mecanicii au văzut salariile lor nu cresc în timp ce costul de trai merge în sus ca "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4a171ecd-42f4-4c6f-9b3e-0d926bbd7b33",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " președinte "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d9fd0d05-1b81-4ee4-9714-7ae77726f727",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare pe pullbacks autorităților de reglementare și vom trece o cota unica de impozitare simplu și "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "283fbe86-c78f-4dd5-b0b7-77f6efa29ce9",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " desființeze IRS într-adevăr se întâmplă că vom vedea un prilej Ted Cruz "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "11b5461d-a1d9-4b89-80d2-c16366f99cbe",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " locurile de muncă Sunt Ted Cruz si am aproba acest mesaj "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

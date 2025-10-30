@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "sn",
+  "annotations": [
+    {
+      "uuid": "717ea654-495c-4e56-861d-3dfe608e1f16",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump yacho rutsigiro uye adzivirire akaronga Mubereki kuti hurumende-mari "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "71e16f08-b3a3-41bc-a14a-2e9e43b3419b",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " utano regai vatorwa pamutemo kutora mabasa edu "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c2e8a36c-64e5-478c-a7d6-a3f3b1b9d78d",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ari kutsvaka panze kwatiri vatyairi rori uye steelworkers zviri "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a15c0f3b-e818-42e3-baea-a82b7cb3c7e5",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " hurongwa ndaona mubayiro wavo haana kukura apo mutengo mupenyu anokwira sezvo "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5e4ee817-f8f8-491b-aaf3-9eec820d703f",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mutungamiriri wenyika "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0e49f9e8-26f6-41c5-bfac-25d6143933f9",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare pamusoro pullbacks ari regulators uye isu zvichapfuura nyore sandara mutero uye "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "49fb0868-0c86-4caf-8895-a3e122dad067",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ubvise IRS here kuenda ratiri gonna kuona mukana Ted Cruz nokuda "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a4a32b87-cdc3-4417-ba02-bacfa82e6665",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mabasa edu Ndiri Ted Cruz ini uchibvumira shoko iri "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

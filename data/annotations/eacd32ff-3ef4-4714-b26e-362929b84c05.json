@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "el",
+  "annotations": [
+    {
+      "uuid": "cb4657db-344b-4fba-b62c-b4f96bd1e247",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " υποστήριξη ρεκόρ Donald Trump και η προάσπιση Planned Parenthood της κυβέρνησης που χρηματοδοτούνται "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b97d7ff0-eee2-4cfc-a101-62260be82667",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " υγειονομικής περίθαλψης αφήστε τους παράνομους αλλοδαπούς πάρουν τις δουλειές μας "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1ca0ab27-9f57-4c94-8031-96f566ec0567",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ο οποίος ψάχνει για εμάς τους οδηγούς φορτηγών και τους εργάτες της χαλυβουργίας στην "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "309f5830-36df-4393-b7e6-bd6d4ef75a0a",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " μηχανικοί έχουν δει τους μισθούς τους να μην αυξηθούν, ενώ το κόστος ζωής ανεβαίνει ως "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a7f6436e-aba5-4335-b524-ad4881721877",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Πρόεδρος "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d82a1584-ff6f-4c4a-ba50-66992c3aefa6",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare για pullbacks τις ρυθμιστικές αρχές και θα περάσουμε μια απλή επίπεδη φόρων και "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "62963d7f-2ef0-4fd0-b126-e97910c30c9b",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " καταργήσει το IRS πραγματικά συμβαίνει είμαστε gonna δούμε μια ευκαιρία Τεντ Cruz για "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cfdb7306-2950-4431-89c7-3ba922f91f7b",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " τις θέσεις εργασίας μας, είμαι ο Τεντ Cruz και εγκρίνω αυτό το μήνυμα "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

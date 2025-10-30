@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "sr",
+  "annotations": [
+    {
+      "uuid": "debfb3ae-6639-4c95-8094-109be8953050",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Доналд Трумп рекорд подржавати и бранити Планнед Парентхоод влада финансира "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c0f319a6-3a08-48c4-993a-f1fb9b0a6fb1",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " здравство нека илегални имигранти се наше послове "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "696ece0f-3f48-43af-8e3c-148c7e3c0e23",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ко брине за нас возаче камиона и Стеелворкерс ин тхе "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5ee65629-960e-45b0-ac18-19b704da080c",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " механика су видели своје плате не расту, док су трошкови живота расте као "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1201623e-71bd-4acf-8193-ef8c54c41d41",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " председник "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c7e03807-e9cc-4c15-aca5-f7583ce40ee3",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Обамацаре на пуллбацкс регулатора, а ми ћемо проћи једноставан паушални порез и "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1c6e2c43-b0fd-421d-9335-9f6e617b3d91",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " укинути ИРС заиста дешава цемо видети прилику Теде Цруз за "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b8e19f39-13c1-4728-9ce1-38f28341141d",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " наши послови Ја сам Тед Круз и одобрити ову поруку "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "ur",
+  "annotations": [
+    {
+      "uuid": "8863152f-f503-4423-ac3b-17857c7c5446",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ڈونالڈ ٹرمپ کے ریکارڈ کی حمایت اور منصوبہ بندی باپ کی حکومت کی مدد سے دفاع "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "035489c7-5027-437f-ba0b-a5ea6bb39e59",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " صحت کی دیکھ بھال غیر قانونی غیر ملکی ہمارے ملازمتیں لینے دو "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "30988f36-4470-4a35-8c7e-5546cf42a9bb",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " جو ہمارے لئے میں ٹرک ڈرائیوروں اور steelworkers اس سے باہر لگ رہا ہے "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "042ebac8-c9d5-4981-a9fe-7ba4ad32f60d",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " رہنے کی قیمت کے طور پر اوپر جاتی ہے جبکہ میکینکس ان کی اجرت بڑھنے نہیں دیکھا ہے "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b984506f-c010-430a-baba-196f2808a2dd",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " صدر "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d2ec8116-dc46-46c9-a420-0118999e8ed0",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare کے pullbacks ریگولیٹرز پر اور ہم نے ایک سادہ فلیٹ ٹیکس کے گزر جائے گا اور "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d330085c-d83f-4caf-997f-bde9b5cbd207",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " IRS واقعی ہم پر جا ختم کرنے والے ہیں ایک موقع ٹیڈ کروز کے لئے "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "98c44dda-e315-4eaa-871a-6668fa6d7847",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ہماری ملازمتوں میں ٹیڈ کروز ہوں اور میں اس پیغام کو منظور "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

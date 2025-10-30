@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "hy",
+  "annotations": [
+    {
+      "uuid": "095c452f-ed52-4664-875b-4aa342ef5fa0",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Դոնալդ Թրամփը ռեկորդը պաշտպանելու եւ աջակցելու նախատեսվող հայրություն ի կառավարության կողմից ֆինանսավորվող "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1e71595b-9de4-4c9d-af27-490759833b40",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " առողջապահությունը թող ապօրինի մոլորակայիններ վերցնել մեր աշխատատեղերը "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5dd53423-9469-4ff2-9be2-5737944fe3c4",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ովքեր փնտրում են մեզ համար բեռնատար մեքենաների վարորդների եւ Steelworkers է, որ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bf8a90c7-b300-4170-a414-31a6be6eda51",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " մեխանիկա տեսել են իրենց աշխատավարձերը չեն աճում, իսկ արժեքը ապրելու գնում են, քանի որ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "21240ec3-ee29-43a3-ad71-c8e8a1b0ec04",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " նախագահ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "19512eb0-0a40-4688-a1f9-051fc4288913",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare է pullbacks կարգավորիչների, եւ մենք պետք է անցնել մի պարզ հարթ հարկ եւ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "337b45f3-845c-4b63-a860-75144514205c",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " վերացնել IRS իրականում կատարվում, մենք Gonna տեսնել հնարավորություն Թեդ Cruz համար "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2bac66d9-fa3c-4400-8a46-83a16e3116d1",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " մեր Աշխատանք Ես Թեդ Cruz եւ ես հաստատում այս հաղորդագրությունը "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

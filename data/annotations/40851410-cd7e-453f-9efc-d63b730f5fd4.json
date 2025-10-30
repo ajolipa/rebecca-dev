@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "co",
+  "annotations": [
+    {
+      "uuid": "5c461ad0-26ca-4f96-b675-850b8acc99f3",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " sustegnu fiche d'Donald Trump è a difesa di l'traviesa guvernu-finanzatu "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d5ac4a4b-ed2c-4bce-a223-9f76e4552ac3",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " cura a salute chì Purto` illegale piglià a nostra null "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6fe66e71-d54b-4d80-bb65-04a1a01dd83a",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " chì d'affacciata per noi lu segne camion è u steelworkers in u "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fba36992-4a50-4b53-aee7-328faacc5022",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " miccanica aghju vistu a so 'piccati nun crìscinu mentri lu costu di vita va, su comu "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6edadc52-9035-466a-94c9-f6b01b21f58a",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " prisidenza "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8345b328-d947-48ff-ac17-b0f15f224929",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare nantu à pullbacks l 'alta è noi ti passa nu semprici testu' impositi appartamentu è "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "72a40705-3a17-48d8-ae3e-d4c88770885a",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " abuliri u Forest parlà avanzendu si sona u friscalettu voir l 'oppurtunitati di Ted Cruz di "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "df506677-da60-4430-9b76-c67d9fbf9f01",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " u nostru mistieri Iu sugnu Ted Cruz, è aghju appruvazioni di stu messagiu "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

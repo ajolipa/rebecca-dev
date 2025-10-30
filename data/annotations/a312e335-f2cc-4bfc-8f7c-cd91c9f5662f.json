@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "hmn",
+  "annotations": [
+    {
+      "uuid": "1a976f25-cc2b-4247-bc38-ad0b3cfff6b8",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump cov ntaub ntawv kev pab txhawb nqa thiab tiv thaiv Yim Npaj Kho tsev tsoom fwv nyiaj "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6d33699b-dee5-40b0-a5b5-189c4a1e2930",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kev pab kho mob qhia rau txhaum kev cai neeg txawv teb chaws coj peb cov hauj lwm "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "77a631ad-f216-47cb-9f4e-f54e3a846840",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " uas yog nrhiav tawm rau peb lub tsheb tsav tsheb thiab cov steelworkers nyob rau hauv lub "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b89aa25a-5369-4db0-aaf1-0306ba2218e4",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mechanics tau pom lawv cov nyiaj ua hauj lwm tsis loj hlob thaum lub sij hawm tus nqi ntawm nyob mus li "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ca192ede-8360-4c8d-aa09-0a8b14208d32",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " tus thawj tswj hwm "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "35aef018-220d-48ab-a11d-3e14de35ffa7",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare rau pullbacks lub regulators thiab peb yuav dhau ib tug yooj yim tiaj tus se thiab "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8b02380e-065c-44be-869f-7d4f05daf919",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " tshem cov IRS yeej yuav mus nyob rau peb nyob nraum mus saib ib lub sij hawm Ted Cruz rau "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6f43b74a-330e-4fbc-bacf-c815ce35b6b8",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " peb cov hauj lwm kuv Ted Cruz thiab kuv pom zoo cov lus no "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

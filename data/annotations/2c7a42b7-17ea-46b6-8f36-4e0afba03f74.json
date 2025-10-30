@@ -1,0 +1,535 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "en",
+  "annotations": [
+    {
+      "uuid": "91b0e37d-2e44-483f-8951-435d4c0df4b7",
+      "start_time": 0,
+      "end_time": 1.49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \nDonald Trump's record support"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "882750ad-34d0-429d-89b2-8fa1714d3b05",
+      "start_time": 1.49,
+      "end_time": 1.8900000000000001,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Donald Trump's record support\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c107d715-df0f-41af-afc0-1f6153702fcf",
+      "start_time": 1.8900000000000001,
+      "end_time": 3.06,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Donald Trump's record support\nand defend Planned Parenthood's"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5838e431-d7fa-4c06-ad04-12d02c23cce2",
+      "start_time": 3.06,
+      "end_time": 3.46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and defend Planned Parenthood's\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "20ce8018-080f-438f-b098-311138015605",
+      "start_time": 3.46,
+      "end_time": 4.37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and defend Planned Parenthood's\ngovernment-funded health care"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "dd7e71ef-17d5-454a-a1dd-b3fa3e6090b9",
+      "start_time": 4.37,
+      "end_time": 4.75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "government-funded health care\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cbafb7df-cd39-4224-b62b-1a8dab8ec0e7",
+      "start_time": 4.75,
+      "end_time": 6.83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "government-funded health care\nlet illegal aliens take our jobs"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1f8415cc-9491-4657-bb34-961415475431",
+      "start_time": 6.83,
+      "end_time": 7.23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "let illegal aliens take our jobs\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9ffd4295-eede-4015-a28a-08e53657f77f",
+      "start_time": 7.23,
+      "end_time": 8.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "let illegal aliens take our jobs\nwho's looking out for us the"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "395708fa-11f9-4469-9912-6a6eb7f8048d",
+      "start_time": 8.3,
+      "end_time": 8.7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "who's looking out for us the\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4cd7f36e-aa2a-4f66-943d-c02e5f6a97d9",
+      "start_time": 8.7,
+      "end_time": 9.66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "who's looking out for us the\ntruck drivers and the"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "91bf319a-e051-4733-860b-131e5707bcc3",
+      "start_time": 9.66,
+      "end_time": 9.8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "truck drivers and the\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "07601127-dfff-42a0-958a-3eb2d3a0b39f",
+      "start_time": 9.8,
+      "end_time": 11.06,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "truck drivers and the\nsteelworkers in the mechanics"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "599614dd-8da1-42cc-b18b-91f62589853b",
+      "start_time": 11.06,
+      "end_time": 11.46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "steelworkers in the mechanics\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cfb0a239-1bb7-43df-89b6-22ac0104bf4b",
+      "start_time": 11.46,
+      "end_time": 12.61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "steelworkers in the mechanics\nhave seen their wages not grow"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9b9f01e0-0280-4d86-b0ba-789de9555e3e",
+      "start_time": 12.61,
+      "end_time": 13.009,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "have seen their wages not grow\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c5a789c9-0108-4f59-b47d-972279f4530b",
+      "start_time": 13.009,
+      "end_time": 14.239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "have seen their wages not grow\nwhile the cost of living goes up"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6eb9b239-90ba-418f-8257-3c3fa02859f9",
+      "start_time": 14.239,
+      "end_time": 14.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "while the cost of living goes up\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "932a2548-1b47-415c-8545-ea48aad16569",
+      "start_time": 14.639,
+      "end_time": 15.75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "while the cost of living goes up\nas president"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6f156599-bd64-4324-bbcc-4711a2f96ba0",
+      "start_time": 15.75,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "as president\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bae9cc25-9753-4d23-926f-47b9bbc2ddcd",
+      "start_time": 16.15,
+      "end_time": 18.13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "as president\nObamacare on pullbacks the"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b9b84a8f-38dc-4d7a-a508-98a324708b1d",
+      "start_time": 18.13,
+      "end_time": 18.189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Obamacare on pullbacks the\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6f0a8d8e-54e2-4e1c-933a-10d134c7d25e",
+      "start_time": 18.189,
+      "end_time": 20.05,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Obamacare on pullbacks the\nregulators and we will pass a"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "736a78d4-29f1-4f7c-a2d8-70ef997b1b1e",
+      "start_time": 20.05,
+      "end_time": 20.18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "regulators and we will pass a\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "64418a17-bb8a-4310-9eb7-b7dad2962531",
+      "start_time": 20.18,
+      "end_time": 22.18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "regulators and we will pass a\nsimple flat tax and abolish the"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b55a7bcb-3168-4bc9-a0dc-b455965581e3",
+      "start_time": 22.18,
+      "end_time": 22.369,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "simple flat tax and abolish the\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fef25097-7d35-4838-879f-ee7930f1919c",
+      "start_time": 22.369,
+      "end_time": 24.779,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "simple flat tax and abolish the\nIRS really going on we're gonna"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0041ed65-9878-47a7-8664-d8182fbd8ebc",
+      "start_time": 24.779,
+      "end_time": 24.869,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "IRS really going on we're gonna\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "00c41272-f40f-4dcd-9b96-e0ccea6bcffa",
+      "start_time": 24.869,
+      "end_time": 26.779,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "IRS really going on we're gonna\nsee an opportunity Ted Cruz for"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9fce4a0a-d1d4-4e37-a86b-8466fecd4094",
+      "start_time": 26.779,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "see an opportunity Ted Cruz for\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f28ba8a0-1d56-4000-ae5f-a210622dd9eb",
+      "start_time": 26.939,
+      "end_time": 28.919,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "see an opportunity Ted Cruz for\nour jobs I'm Ted Cruz and I"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8cc4cafc-c34d-41e1-9203-c074bfe71074",
+      "start_time": 28.919,
+      "end_time": 28.98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "our jobs I'm Ted Cruz and I\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f86666b2-7826-4001-af31-7f6799ff04ef",
+      "start_time": 28.98,
+      "end_time": 34.98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "our jobs I'm Ted Cruz and I\napprove this message"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

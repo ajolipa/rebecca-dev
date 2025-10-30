@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "fr",
+  "annotations": [
+    {
+      "uuid": "57139f43-d99a-44ce-8eed-cde972331edc",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Le soutien record de Donald Trump et défendre de Planned Parenthood gouvernement-financé "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f0fbf920-1ab8-4a1b-a46f-27ea5e7662df",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " soins de santé laisse les étrangers illégaux prennent nos emplois "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8204c287-d4f2-4d5e-9927-6142b808b7c8",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " qui est à la recherche pour nous les chauffeurs de camion et les métallurgistes dans le "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1ec1c5fd-c7d1-4d9f-bc30-fb0f383ca4d3",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mécaniciens ont vu leur salaire ne poussent pas alors que le coût de la vie comme "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c17cb5c1-5101-4e97-a20a-4de945e59404",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Président "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "001c5001-5573-4436-8335-2afa9ecf072a",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare sur pullbacks les régulateurs et nous passerons un impôt uniforme simple et "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "31f14de9-c49c-4cc4-b00b-4a846b70f787",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Abolir l'IRS va vraiment nous allons voir une occasion Ted Cruz "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d746deeb-50a1-403e-9072-200b0c035be2",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " nos emplois, je suis Ted Cruz et j'approuve ce message "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

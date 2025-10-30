@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "ps",
+  "annotations": [
+    {
+      "uuid": "1c3a2f15-ee56-4896-8a87-6e5fdb9b1bfb",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald ټرمپ د ريکارډ ملاتړ او دفاع پلان Parenthood د حکومت لخوا تمویل شوي "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2107e992-de44-4783-8345-40cda2f90c55",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " روغتيايي خدمتونو ته اجازه ناقانونه زموږ د دندې واخلي "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b0c07adf-d840-4db1-aa5e-6445ebab492e",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " څوک زموږ څخه په موټر د ډریور او steelworkers په لټه کې دي "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "959324df-0364-4305-9754-4107d5b7315e",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " میخانیکونو کی د خپلو معاشونو د نه کرلو ته کتل په داسې حال کې د ژوند د لګښت لکه ځي "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "17abeb3c-7891-4a95-b1a5-e487b28eac4d",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ولسمشر "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b0a49b9b-2ee5-44af-8964-45b8231ad701",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " محموداحمدی پر تنظیم pullbacks او موږ به یو ساده هوارو ماليې پاس او "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4623f0ab-40da-4a1b-abf2-f2398a6a36bd",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ړنګولو د IRS په رښتيا يو فرصت Ted Cruz لپاره پر موږ کوو gonna وګورئ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "208b94ef-eae5-443f-9803-59c0869ae786",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " زموږ د دندې زه Ted Cruz یم او زه دا پيغام تصویب "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

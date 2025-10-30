@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "mt",
+  "annotations": [
+    {
+      "uuid": "43f00f80-8b87-47f6-836b-576931edea33",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " appoġġ rekord Donald Trump u niddefendu ffinanzjati mill-gvern Parenthood ppjanata tal "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "72b96ce2-5fe8-4a6b-b9a4-b21da90879a2",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kura tas-saħħa ħalli stranġiera illegali jieħdu impjiegi tagħna "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2ea807bd-9ee1-4ff4-80b6-0186224ee9c2",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " li qed ifittxu għalina-sewwieqa tat-trakkijiet u l-steelworkers fil- "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2e3b6c99-e68a-4d48-9abc-087264a6b2ee",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mechanics raw pagi tagħhom ma jikbru filwaqt li l-għoli tal-ħajja tmur up bħala "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "50b33ef1-7689-4952-9ea9-104424709038",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " president "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "77ea48e0-b43e-4e02-8742-36bffc185b0f",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ObamaCare fuq pullbacks-regolaturi u aħna se jgħaddu taxxa fissa sempliċi u "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "10df2b57-dacd-46f0-95c3-879abc7b4142",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " tabolixxi l-IRS verament għaddej aħna qed gonna tara opportunità Ted Cruz għall "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "70c9d318-2175-48ed-94f8-2dff191f0847",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " impjiegi tagħna Jien Ted Cruz u jien japprova dan il-messaġġ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

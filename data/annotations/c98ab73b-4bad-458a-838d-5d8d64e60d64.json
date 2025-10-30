@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "su",
+  "annotations": [
+    {
+      "uuid": "baa37f6d-5125-4c20-b0ed-3804c271d935",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " support catetan Donald Trump sarta membela rencanana Parenthood sacara pamarentahan-dibiayaan "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "966ed7af-4206-457d-aeb4-3a0d8c9bb1b4",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kaséhatan hayu mahluk luar angkasa haram nyokot jobs urang "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "da826545-2b99-46fd-92c1-4caf031b4d13",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " anu keur néangan kaluar pikeun urang drivers truk jeung steelworkers dina "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "85f826ec-92d5-4b39-8ee7-1ab3872db605",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mékanika geus katempo gajih maranéhanana teu tumuwuh bari biaya hirup mana up salaku "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "82f80345-698a-4ebe-9507-c37228ac172b",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " presiden "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "49b70847-b25f-4701-a4db-6136993abcc0",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare dina pullbacks nu régulator urang bakal maot a pajeg datar basajan jeung "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "84a167ea-b949-4f3d-bc90-94a35a94a573",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mupuskeun nu IRS bener jalan we keur gonna tempo hiji kasempetan Ted Cruz pikeun "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5459c137-e802-40a4-8c94-fc6f0164f4a4",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " jobs urang Aku Ted Cruz jeung approve talatah ieu "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

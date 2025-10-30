@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "hr",
+  "annotations": [
+    {
+      "uuid": "76246836-2351-4fe3-b4d0-be7faf8ec682",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump je rekord podupiru i brane Planirano roditeljstvo vlada financira "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8748efdb-6684-4d2e-91e7-9827a9190ab0",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " zdravstvo neka ilegalnih stranaca uzeti naše poslove "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1f13681f-0241-4457-bf7d-48ed26318d0c",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " koji je u potrazi za nas vozače kamiona i Steelworkers u "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0b5e35be-9d7f-424e-be59-3c14353f9aa5",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mehanika su vidjeli svoje plaće ne rastu, dok su troškovi života ide gore, kao "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e8830d81-bf17-4e74-9d7f-f1e497e8fa3d",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " predsjednik "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9d5b9fd8-892f-4436-9cb8-a21b16c38803",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare na pullbacks regulatora, a mi ćemo proći jednostavan stan poreza i "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b3f20594-18cc-4949-bfbf-a2f312aa2caa",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Ukinuti IRS zapravo događa ćemo vidjeti priliku Ted Cruz za "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cfe1e472-7c57-4839-a0d9-8742ada3be5a",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " naš posao sam Ted Cruz i ja odobriti ovu poruku "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

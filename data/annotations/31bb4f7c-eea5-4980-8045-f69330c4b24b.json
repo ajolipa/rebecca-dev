@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "yi",
+  "annotations": [
+    {
+      "uuid": "83025148-e04a-4d0f-a8c6-d7a830b9fbb8",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " דאָנאַלד טראַמפּ ס רעקאָרד שטיצן און באַשיצן פּלאַננעד פּאַרענטהאָאָד ס רעגירונג-פונדעד "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8b57e54c-8d6b-4b2d-8859-56489d797ee9",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " געזונט זאָרגן לאָזן ומלעגאַל ייליאַנז נעמען אונדזער דזשאָבס "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "68059c83-4e9d-4c0c-847a-806a6a5992e6",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ווער ס קוקן אויס פֿאַר אונדז די טראָק דריווערס און די סטעעלוואָרקערס אין די "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7bf98977-bbd7-4b9f-8ff2-2e1b2cd8ba15",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " מאַקאַניקס האָבן געזען זייער לוין נישט וואַקסן בשעת די פּרייַז פון לעבעדיק גייט אַרויף ווי "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5d0058fe-6814-4978-b367-64e37891b9b0",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " פּרעזידענט "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7701ab01-d7b9-41bc-9a00-4098cd4f23a8",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " אָבאַמאַקאַרע אויף פּוללבאַקקס די רעגיאַלייטערז און מיר וועלן פאָרן אַ פּשוט פלאַך שטייַער און "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c97a6ffa-6923-4ad9-85c6-3095b661b177",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " אָפּשאַפן די ירס טאַקע געגאנגען אויף מיר ניטאָ גאַנאַ זען אַ געלעגנהייט טעד קרוז פֿאַר "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c2dbe916-6eb3-4cc5-b1f4-e3a525ca3895",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " אונדזער דזשאָבס איך בין טעד קרוז און איך אַפּרווו דעם אָנזאָג "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

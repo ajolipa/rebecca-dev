@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "fa",
+  "annotations": [
+    {
+      "uuid": "678bd314-dc5b-494e-8ae6-05d417261ff4",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " پشتیبانی رکورد دونالد ترامپ و دفاع از برنامه ریزی والدین را دولت تامین می شود "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f8254f85-5c83-4bd9-96c4-21b42e41091f",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " مراقبت های بهداشتی اجازه بیگانگان غیر قانونی مشاغل ما "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "380e176d-afee-4e06-b1b9-41fd51ece30e",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " که به دنبال برای ما رانندگان کامیون و کارگر کارخانه فولاد در "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "45186744-c14c-4ae8-a7ef-54e079a675ad",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " مکانیک حقوق خود را رشد نمی دیده اند در حالی که هزینه زندگی بالا می رود و "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3127b214-f6bb-4461-884f-bf6f2919e90f",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " رئيس جمهور "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "36ccd47e-5e60-4b49-bfd6-5bfe9fc048fc",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " اوباما در pullbacks تنظیم کننده و ما مالیات بر تخت ساده عبور و "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "300c165c-eed1-4506-a799-f7e464a06a79",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " لغو IRS واقعا در ما میخوای در دید یک فرصت تد کروز برای "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9c3cec33-bfd3-424e-bfc4-98a6eda72e11",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " شغل ما من تد کروز و من مورد تایید این ارسال "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

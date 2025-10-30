@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "ko",
+  "annotations": [
+    {
+      "uuid": "39e9c7fa-117a-4a7c-b6fe-1bd6b85be2b8",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " 부동산 재벌 도널드 트럼프의 기록 지원 및 가족 계획의 정부는 투자 방어 "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "45d66dff-fba6-42ff-98aa-22d8baee1818",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " 건강 관리는 불법 체류자가 우리의 일자리를 보자 "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bb1afa62-1380-4c98-b038-f190df14bd21",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " 누가 우리를 위해있는 트럭 운전사와 철강 노동자를 찾고 "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "75fc6646-dafe-4625-9eb9-42e6acac7e3a",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " 생활의 비용으로 상승하면서 기계는 성장하지 임금을 보았다 "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "783ca691-ad33-483e-bddd-88b300311fc0",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " 대통령 "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4a546495-b14d-43d8-8a89-e1d4fcef8d23",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " 주가 하락 규제에 대한 오바마의 보건과 우리가 간단한 단일 세율을 전달하고 "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fafb413c-e745-4549-be4b-67298086f59c",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " 국세청은 정말 볼 우리에 기회 테드 크루즈를 들어거야 것 폐지 "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7df675ab-8794-4f12-8b38-f64cb6c35b88",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " 우리의 작업 테드 크루즈와 나는이 메시지를 승인 "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

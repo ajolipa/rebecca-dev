@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "ar",
+  "annotations": [
+    {
+      "uuid": "f2d3571b-116f-4bdf-90ad-106ba5a072b6",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " دعم سجل دونالد ترامب والدفاع تمولها الحكومة لتنظيم الأسرة ل "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "23507548-dc0b-480d-bb5d-b5c291f9b9ba",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " الرعاية الصحية تتيح الأجانب غير الشرعيين تأخذ وظائفنا "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d1403401-b4a0-4c31-8cd2-6bf4ea0b4e59",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " الذي يبحث بالنسبة لنا سائقي الشاحنات وعمال الصلب في "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b489c6ef-c828-458c-94bc-1e1dcec7f33e",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " شهدت الميكانيكا أجورهم لا تنمو في حين أن تكلفة المعيشة ترتفع كما "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "32ba017e-3cca-4ed2-b014-8a64c8654907",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " رئيس "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0354fa1d-fd15-4996-844f-e20cd57c39cd",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " سوف Obamacare على الانسحاب المنظمين ونحن تمرير ضريبة شقة بسيطة و "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "64403eec-5ee7-4376-9fb0-03cedaa3136b",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " إلغاء مصلحة الضرائب يحدث في الواقع نحن ستعمل يرون فرصة تيد كروز ل "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "117e6a51-51dc-4f2d-b874-80a063a52283",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " وظائفنا أنا تيد كروز وأوافق على هذه الرسالة "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

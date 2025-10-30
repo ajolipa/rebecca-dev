@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "kk",
+  "annotations": [
+    {
+      "uuid": "ec3cfa57-edfe-48c4-8d91-da76c7db474d",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Дональд Трамп ның рекордтық қолдау және отбасын жоспарлау үкіметін қаржыландыратын қорғауға "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "45d759b5-3c0a-4d2e-90bf-2346d017b061",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " денсаулық сақтау күтілгендей заңсыз Біздің жұмыс орындарын алуға мүмкіндік "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6aa66302-8f19-410d-8073-26331a984a12",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " кім біз үшін жүк драйверлер мен сталелитейщиков қарап жатыр "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4556676c-5487-4237-94e2-d20ffa2fdd2a",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " механика өмір сүру құны ретінде көтерілді, ал олардың жалақысы өседі емес көрген "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f1ff7468-78cd-45fc-99f4-3f0715c1d96b",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " президент "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a85a5bca-6f8d-4aa4-ba38-551c14b6b1c2",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " pullbacks реттегіштер туралы Obamacare және біз қарапайым жазық салық өтеді және "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6f7b4464-2aab-45c9-b4dc-2d04651a244d",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " IRS шын мәнінде біз жүріп күшiн жоюға мүмкіндік Тед Cruz жиналады қараңыз жатырмыз "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "61d2464b-0357-4ec2-8634-b206c3eae625",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Біздің жұмыс орны Мен Тед Cruz қалдым, мен бұл хабарды бекітеді "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

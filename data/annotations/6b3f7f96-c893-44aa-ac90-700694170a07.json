@@ -1,0 +1,135 @@
+{
+  "event_id": "cf6ff24a-3677-40ff-b4d5-955608990dcd",
+  "source_id": "61e71522-1c0c-40ce-832f-f4dd592d53f7",
+  "set": "ceb",
+  "annotations": [
+    {
+      "uuid": "c721fb42-5185-4056-98b0-d3e6ff1299f0",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trumpeta ni rekord suporta ug pagpanalipod sa Plano Parenthood sa gobyerno-gipundohan "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "68fb1506-dc64-4372-9bfa-11a69843e588",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " atiman sa panglawas himoa nga illegal nga langyaw sa pagkuha sa atong mga trabaho "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f8787e2c-6172-4711-945b-6adcdd6a2b75",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " nga ni sa pagtan-aw alang kanato ang trak drayber ug ang mga steelworkers sa "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c279d983-37ec-4a31-ae65-32d56a5b8d64",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mekaniko nakita sa ilang mga suhol dili motubo samtang ang gasto sa buhi moadto sa ingon nga "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f0513c40-72f8-4b01-af30-933221992ee7",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " presidente "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "093d05fb-ce1e-46db-85a2-52fd48311db5",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare sa pullbacks sa mga maglalagda ug kami moagi sa usa ka yano nga patag sa buhis ug "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d25364e3-0c1f-4e53-9f31-f581ca1aa374",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " pagbungkag sa IRS sa tinuod na sa kita mag tan-awa usa ka oportunidad Ted Cruz alang sa "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d6948585-bbbe-4171-9880-345304e6a841",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " atong mga trabaho ko Ted Cruz ug mouyon ako niini nga mensahe "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}
