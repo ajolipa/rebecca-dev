@@ -1,0 +1,458 @@
+{
+  "event_id": "17dc3a89-3c65-4602-b8f6-902e21275a6f",
+  "source_id": "343349fe-a381-4a44-8211-d44d3e3d7510",
+  "set": "Avalon Structural Metadata bg257g27q [Index]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 90,
+      "annotation": [
+        {
+          "text": "Unidentified Speaker introduces Liz Lochhead"
+        }
+      ],
+      "tags": [],
+      "uuid": "89038911-3814-4e74-a59b-cc18192c03c4"
+    },
+    {
+      "start_time": 91,
+      "end_time": 106,
+      "annotation": [
+        {
+          "text": "Lochhead introduces herself"
+        }
+      ],
+      "tags": [],
+      "uuid": "4c029ea6-10ce-4e4b-8c56-f07f5d0e464e"
+    },
+    {
+      "start_time": 106,
+      "end_time": 121,
+      "annotation": [
+        {
+          "text": "Lochhead introduces “My Rival’s House”"
+        }
+      ],
+      "tags": [],
+      "uuid": "e28ad65d-25df-4217-87b0-20f4f2e35536"
+    },
+    {
+      "start_time": 121,
+      "end_time": 238,
+      "annotation": [
+        {
+          "text": "Lochhead performs “My Rival’s House”"
+        }
+      ],
+      "tags": [],
+      "uuid": "fad68a7b-dba0-40f3-bdf3-97c7edd0d73c"
+    },
+    {
+      "start_time": 238,
+      "end_time": 251,
+      "annotation": [
+        {
+          "text": "Lochhead introduces “Poem for My Sister”"
+        }
+      ],
+      "tags": [],
+      "uuid": "81b058d0-6ccc-4040-8b85-3b2552ec56a5"
+    },
+    {
+      "start_time": 252,
+      "end_time": 308,
+      "annotation": [
+        {
+          "text": "Lochhead performs “Poem for My Sister”"
+        }
+      ],
+      "tags": [],
+      "uuid": "31771c91-f1e7-4716-9c0e-4bc594f1584e"
+    },
+    {
+      "start_time": 308,
+      "end_time": 399,
+      "annotation": [
+        {
+          "text": "Lochhead introduces poems from The Grimm Sisters"
+        }
+      ],
+      "tags": [],
+      "uuid": "559f80d1-9b6c-4ac7-a092-ebbe269ac87b"
+    },
+    {
+      "start_time": 399,
+      "end_time": 522,
+      "annotation": [
+        {
+          "text": "Lochhead performs “Cinderella”"
+        }
+      ],
+      "tags": [],
+      "uuid": "6bb0f9ce-70af-4dd5-a2f6-49ad5647a782"
+    },
+    {
+      "start_time": 522,
+      "end_time": 550,
+      "annotation": [
+        {
+          "text": "Lochhead introduces “Thirteen Motifs”"
+        }
+      ],
+      "tags": [],
+      "uuid": "86d5628e-38a7-43f1-93de-a987dba9b202"
+    },
+    {
+      "start_time": 550,
+      "end_time": 591,
+      "annotation": [
+        {
+          "text": "Lochhead performs “Thirteen Motifs”"
+        }
+      ],
+      "tags": [],
+      "uuid": "7a1aaf50-a97d-4a5b-8b2e-a0444423128b"
+    },
+    {
+      "start_time": 591,
+      "end_time": 596,
+      "annotation": [
+        {
+          "text": "Lochhead introduces “The Father”"
+        }
+      ],
+      "tags": [],
+      "uuid": "21a00623-b0f8-4f04-8dea-c506169447ff"
+    },
+    {
+      "start_time": 596,
+      "end_time": 655,
+      "annotation": [
+        {
+          "text": "Lochhead performs \"The Father"
+        }
+      ],
+      "tags": [],
+      "uuid": "7a2ad4cd-07bb-4fa9-8e27-bccc7a54313a"
+    },
+    {
+      "start_time": 655,
+      "end_time": 656,
+      "annotation": [
+        {
+          "text": "Lochhead introduces \"The Mother\""
+        }
+      ],
+      "tags": [],
+      "uuid": "8e6abde3-1ad1-4604-8933-8ff5b72e238b"
+    },
+    {
+      "start_time": 656,
+      "end_time": 736,
+      "annotation": [
+        {
+          "text": "Lochhead performs \"The Mother\""
+        }
+      ],
+      "tags": [],
+      "uuid": "f0b2588d-fb63-4f21-8a84-2f93458c5531"
+    },
+    {
+      "start_time": 736,
+      "end_time": 778,
+      "annotation": [
+        {
+          "text": "Lochhead introduces “Three Twists”"
+        }
+      ],
+      "tags": [],
+      "uuid": "7e144b22-2bfb-4667-8bf0-af96c7fb2f2f"
+    },
+    {
+      "start_time": 779,
+      "end_time": 904,
+      "annotation": [
+        {
+          "text": "Lochhead performs “Rapunzstiltskin”"
+        }
+      ],
+      "tags": [],
+      "uuid": "bac101ea-979e-4e9b-b3ad-867cfc0a4b82"
+    },
+    {
+      "start_time": 904,
+      "end_time": 909,
+      "annotation": [
+        {
+          "text": "Lochhead introduces “Beauty and the”"
+        }
+      ],
+      "tags": [],
+      "uuid": "fe33a350-42dd-4fde-a5bb-01d3e9b765d4"
+    },
+    {
+      "start_time": 909,
+      "end_time": 997,
+      "annotation": [
+        {
+          "text": "Lochhead performs \"Beauty and the\""
+        }
+      ],
+      "tags": [],
+      "uuid": "59f1877d-6074-4777-9c84-3c5896d1aff5"
+    },
+    {
+      "start_time": 997,
+      "end_time": 1012,
+      "annotation": [
+        {
+          "text": "Lochhead introduces “After Leaving the Castle”"
+        }
+      ],
+      "tags": [],
+      "uuid": "91caaa0d-21e6-4e97-800f-2aff1e63c28c"
+    },
+    {
+      "start_time": 1013,
+      "end_time": 1066,
+      "annotation": [
+        {
+          "text": "Lochhead performs \"After Leaving the Castle\""
+        }
+      ],
+      "tags": [],
+      "uuid": "288bed68-d90b-4c12-8b14-0d717bf019a1"
+    },
+    {
+      "start_time": 1070,
+      "end_time": 1116,
+      "annotation": [
+        {
+          "text": "Lochhead introduces “Six Disenchantments”"
+        }
+      ],
+      "tags": [],
+      "uuid": "718c9afe-0138-4239-87eb-edde92534a05"
+    },
+    {
+      "start_time": 1118,
+      "end_time": 1228,
+      "annotation": [
+        {
+          "text": "Lochhead performs “Six Disenchantments”"
+        }
+      ],
+      "tags": [],
+      "uuid": "a3b79b24-d71f-4301-b723-230704373a30"
+    },
+    {
+      "start_time": 1229,
+      "end_time": 1252,
+      "annotation": [
+        {
+          "text": "Lochhead introduces “Revelation”"
+        }
+      ],
+      "tags": [],
+      "uuid": "847091be-3a1d-4dde-8f26-9302d3b4bdad"
+    },
+    {
+      "start_time": 1253,
+      "end_time": 1361,
+      "annotation": [
+        {
+          "text": "Lochhead performs “Revelation”"
+        }
+      ],
+      "tags": [],
+      "uuid": "99303a30-b9d7-4f84-a741-05b80a023b0f"
+    },
+    {
+      "start_time": 1378,
+      "end_time": 1384,
+      "annotation": [
+        {
+          "text": "Lochhead introduces “Poem for Other Poor Fools”"
+        }
+      ],
+      "tags": [],
+      "uuid": "7883556e-401a-4064-8653-07ee3e6d58ca"
+    },
+    {
+      "start_time": 1384,
+      "end_time": 1471,
+      "annotation": [
+        {
+          "text": "Lochhead performs \"Poem for Other Poor Fools\""
+        }
+      ],
+      "tags": [],
+      "uuid": "18710874-1731-4f8c-9371-8030e6621edb"
+    },
+    {
+      "start_time": 1472,
+      "end_time": 1478,
+      "annotation": [
+        {
+          "text": "Lochhead discusses \"Poem for Other Poor Fools\""
+        }
+      ],
+      "tags": [],
+      "uuid": "0ebd09b0-7ea1-4bb5-89e7-45e1f64bc8c7"
+    },
+    {
+      "start_time": 1486,
+      "end_time": 1528,
+      "annotation": [
+        {
+          "text": "Lochhead introduces “The Bargain”"
+        }
+      ],
+      "tags": [],
+      "uuid": "1f3eaf71-1d67-4a8d-a42d-7edd89e0d0e5"
+    },
+    {
+      "start_time": 1529,
+      "end_time": 1816,
+      "annotation": [
+        {
+          "text": "Lochhead performs “The Bargain”"
+        }
+      ],
+      "tags": [],
+      "uuid": "abae29d3-7e24-4645-a306-34356b6e2a27"
+    },
+    {
+      "start_time": 1823,
+      "end_time": 1830,
+      "annotation": [
+        {
+          "text": "Lochhead introduces “How Do I?”"
+        }
+      ],
+      "tags": [],
+      "uuid": "409c17ee-d90e-4466-80ac-aaaba05fea4a"
+    },
+    {
+      "start_time": 1839,
+      "end_time": 1920,
+      "annotation": [
+        {
+          "text": "Lochhead performs “How Do I?”"
+        }
+      ],
+      "tags": [],
+      "uuid": "5cd573e8-4301-4e77-bc8a-fccd0a9665ac"
+    },
+    {
+      "start_time": 1923,
+      "end_time": 1960,
+      "annotation": [
+        {
+          "text": "Lochhead introduces “The St. Valentine’s Day Heart Catalogue”"
+        }
+      ],
+      "tags": [],
+      "uuid": "a4dd3095-7525-418e-932d-661a49a13342"
+    },
+    {
+      "start_time": 1961,
+      "end_time": 2115,
+      "annotation": [
+        {
+          "text": "Lochhead performs “The St. Valentine’s Day Heart Catalogue”"
+        }
+      ],
+      "tags": [],
+      "uuid": "1473827f-7692-47b9-b832-eacd993bd643"
+    },
+    {
+      "start_time": 2122,
+      "end_time": 2159,
+      "annotation": [
+        {
+          "text": "Lochhead introduces “Ontario October Going West”"
+        }
+      ],
+      "tags": [],
+      "uuid": "3c947ce8-aa8e-4725-b33c-800e9cb42230"
+    },
+    {
+      "start_time": 2159,
+      "end_time": 2235,
+      "annotation": [
+        {
+          "text": "Lochhead performs “Ontario October Going West”"
+        }
+      ],
+      "tags": [],
+      "uuid": "2d7eed0a-6e62-480b-b83c-ae7bf49e68c5"
+    },
+    {
+      "start_time": 2240,
+      "end_time": 2274,
+      "annotation": [
+        {
+          "text": "Lochhead introduces “The Last Supper”"
+        }
+      ],
+      "tags": [],
+      "uuid": "5e0759f0-8cb1-458a-a3fc-d274f4d1dc41"
+    },
+    {
+      "start_time": 2276,
+      "end_time": 2390,
+      "annotation": [
+        {
+          "text": "Lochhead performs “The Last Supper”"
+        }
+      ],
+      "tags": [],
+      "uuid": "f7961226-4795-4d02-96cb-ac763c3e0f0e"
+    },
+    {
+      "start_time": 2392,
+      "end_time": 2395,
+      "annotation": [
+        {
+          "text": "Lochhead introduces “The Other Woman”"
+        }
+      ],
+      "tags": [],
+      "uuid": "fe197953-b9ce-484e-82c2-d9400c5cb974"
+    },
+    {
+      "start_time": 2397,
+      "end_time": 2472,
+      "annotation": [
+        {
+          "text": "Lochhead performs “The Other Woman”"
+        }
+      ],
+      "tags": [],
+      "uuid": "5897d0e1-a15e-44ec-a047-2ef35eb5065e"
+    },
+    {
+      "start_time": 2473,
+      "end_time": 2562,
+      "annotation": [
+        {
+          "text": "Lochhead introduces “The Last Hag”"
+        }
+      ],
+      "tags": [],
+      "uuid": "0e660003-f499-478c-a75b-a5ee1cd73f42"
+    },
+    {
+      "start_time": 2565,
+      "end_time": 2644,
+      "annotation": [
+        {
+          "text": "Lochhead performs “The Last Hag”"
+        }
+      ],
+      "tags": [],
+      "uuid": "d01cc2ad-c612-4f99-b790-7d7a2c4612ec"
+    }
+  ]
+}

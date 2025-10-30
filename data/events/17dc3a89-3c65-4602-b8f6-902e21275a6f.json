@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "343349fe-a381-4a44-8211-d44d3e3d7510": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/134/041/original/SW020-a-cleaned.wav?1661177188",
+      "duration": 2695.3259,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-10-30T01:18:37.581Z",
+  "created_by": "ajolipa",
+  "label": "Media File 1 of 1 - SW020-a-cleaned.wav",
+  "updated_at": "2025-10-30T01:18:37.581Z",
+  "updated_by": "ajolipa",
+  "rights_statement": ""
+}
