@@ -4,7 +4,81 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "This is a test link.",
+          "link": "https://www.google.com"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://www.google.com",
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://www.google.com",
+          "text": "I wish it hadn't switched everything to this color????"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://www.google.com",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This text editor is really bad."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Here's a different link: "
+        },
+        {
+          "text": "Link ",
+          "link": "https://www.performantsoftware.com"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://www.performantsoftware.com",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://www.performantsoftware.com",
+          "text": "sdf why????"
         }
       ]
     }
@@ -12,7 +86,7 @@
   "created_at": "2025-10-21T02:31:32.398Z",
   "created_by": "ajolipa",
   "title": "Rebecca Dev",
-  "updated_at": "2025-10-30T16:17:38.496Z",
+  "updated_at": "2025-10-30T16:20:16.508Z",
   "updated_by": "ajolipa",
   "autogenerate": {
     "enabled": false,
