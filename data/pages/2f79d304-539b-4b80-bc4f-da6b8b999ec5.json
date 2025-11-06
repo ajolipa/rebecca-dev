@@ -188,14 +188,6 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "bulleted-list",
       "children": [
         {
@@ -255,6 +247,49 @@
           "text": "Some space naturally shows up beneath the list here. How is that rendered on the front end?"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "So if I type a heading, will it appear that there is space under it?",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "No, not especially."
+        }
+      ]
     }
   ],
   "title": "Embedded Event",
@@ -265,6 +300,6 @@
   "slug": "embedded-event",
   "created_at": "2025-10-21T02:41:23.934Z",
   "created_by": "ajolipa",
-  "updated_at": "2025-11-06T07:23:22.991Z",
+  "updated_at": "2025-11-06T08:02:16.290Z",
   "updated_by": "ajolipa"
 }
