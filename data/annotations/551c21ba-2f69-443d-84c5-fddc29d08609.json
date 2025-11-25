@@ -1,5 +1,2943 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "uuid": "262d7b99-b556-4f93-a3a9-13fcd367e9da",
+      "start_time": 4,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \n[Music]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "851da60a-ad69-4a0e-93fa-df1ac628b4b5",
+      "start_time": 6,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Music]\nthroughout my life"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Father"
+        }
+      ]
+    },
+    {
+      "uuid": "e053d614-f3c1-4de0-a50b-350e8be5d509",
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Music]\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1151e316-6e7e-405a-9ffc-9747822f8788",
+      "start_time": 8,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "throughout my life\nthe ten rings gave our family power"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Father"
+        }
+      ]
+    },
+    {
+      "uuid": "015253f7-738c-47f2-89a8-89f56a92a83c",
+      "start_time": 8,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "throughout my life\n "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Father"
+        }
+      ]
+    },
+    {
+      "uuid": "29fa46c8-6012-4d72-b547-ce24e27c812b",
+      "start_time": 15,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \nif you wanted them to be yours one day"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Father"
+        }
+      ]
+    },
+    {
+      "uuid": "9647ade1-1430-4a8f-b535-bdf148f7bba2",
+      "start_time": 15,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cccbc477-fcc3-48c6-b6d7-89b4698d746b",
+      "start_time": 18,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "if you wanted them to be yours one day\nyou have to show me you are strong"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Father"
+        }
+      ]
+    },
+    {
+      "uuid": "edc4ee0e-4a79-4914-9bc3-b5b81130925c",
+      "start_time": 18,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "if you wanted them to be yours one day\n "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Father"
+        }
+      ]
+    },
+    {
+      "uuid": "639c70ff-f060-4c22-8d3b-f6302904699f",
+      "start_time": 20,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you have to show me you are strong\nenough to carry them"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Father"
+        }
+      ]
+    },
+    {
+      "uuid": "4cbfa69e-0cbc-4cc4-a5dc-6a8dc953ad03",
+      "start_time": 20,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you have to show me you are strong\n "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Father"
+        }
+      ]
+    },
+    {
+      "uuid": "41bb3fe0-de1d-49ab-b0ed-cebdc6550188",
+      "start_time": 24,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \nmarvel has done it again shang chi in"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Susan"
+        }
+      ]
+    },
+    {
+      "uuid": "1e20c6e1-dc23-4297-a84e-43773835451c",
+      "start_time": 24,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "874480c4-60c6-4bbc-9a65-8cb5be436f76",
+      "start_time": 26,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "marvel has done it again shang chi in\nthe legend of the ten rings is another"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Susan"
+        }
+      ]
+    },
+    {
+      "uuid": "54cdd285-63b1-4f28-90b5-1e66f248da26",
+      "start_time": 26,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "marvel has done it again shang chi in\n "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Susan"
+        }
+      ]
+    },
+    {
+      "uuid": "e89932fa-1bc9-4cae-a05a-50a30e82dce1",
+      "start_time": 28,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the legend of the ten rings is another\nnotch in the marvel belt of quality"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Susan"
+        }
+      ]
+    },
+    {
+      "uuid": "d9f77dc2-974f-4e1c-96f4-5a29a71fa786",
+      "start_time": 28,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the legend of the ten rings is another\n "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Susan"
+        }
+      ]
+    },
+    {
+      "uuid": "f3d0018a-4a22-4cf3-8509-fab3deb3d691",
+      "start_time": 29,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "notch in the marvel belt of quality\nsuperhero movies with fleshed out"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Susan"
+        }
+      ]
+    },
+    {
+      "uuid": "fdbbc1b4-a3d9-40e9-98de-9b048d4cfb35",
+      "start_time": 29,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "notch in the marvel belt of quality\n "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Susan"
+        }
+      ]
+    },
+    {
+      "uuid": "42158f71-95f4-48f4-98f7-0b4688236b98",
+      "start_time": 31,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "superhero movies with fleshed out\ncharacters and heartfelt stories"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Susan"
+        }
+      ]
+    },
+    {
+      "uuid": "29224f13-7a10-48cd-8493-c3e66cac288a",
+      "start_time": 31,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "superhero movies with fleshed out\n "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Susan"
+        }
+      ]
+    },
+    {
+      "uuid": "e42edfdf-9888-4ce7-aa1f-3b224877df11",
+      "start_time": 33,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "characters and heartfelt stories\nin this film chongqi has been secretly"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Susan"
+        }
+      ]
+    },
+    {
+      "uuid": "8d93097e-e41f-49f5-896d-26cf57059448",
+      "start_time": 33,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "characters and heartfelt stories\n "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Susan"
+        }
+      ]
+    },
+    {
+      "uuid": "e56efbde-e884-4487-a057-a4fa2ed74f38",
+      "start_time": 36,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in this film chongqi has been secretly\ngoing by the name sean spending most of"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Susan"
+        }
+      ]
+    },
+    {
+      "uuid": "a7d0d057-0472-47c3-9e1b-8d74d258d7c7",
+      "start_time": 36,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in this film chongqi has been secretly\n "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Susan"
+        }
+      ]
+    },
+    {
+      "uuid": "748a4f53-daac-4d33-865c-4248850b03f2",
+      "start_time": 38,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "going by the name sean spending most of\nhis time with his best friend katie as a"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "75121341-3244-48d2-8566-44dea8f55b9b",
+      "start_time": 38,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "going by the name sean spending most of\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f65e0133-3440-4664-85cc-7678a01f3cce",
+      "start_time": 40,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "his time with his best friend katie as a\nvalet in san francisco but when they are"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e38928e3-fe85-4a0f-9bca-f5fa2f8d7ed3",
+      "start_time": 40,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "his time with his best friend katie as a\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0c7630ff-a25e-46a1-b1e5-516725f9a83c",
+      "start_time": 43,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "valet in san francisco but when they are\nunexpectedly attacked by his father's"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b06b26eb-82c5-4fe8-bed5-79a6748fb388",
+      "start_time": 43,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "valet in san francisco but when they are\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fb73f246-ec55-4d28-abde-c598d468c21d",
+      "start_time": 45,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "unexpectedly attacked by his father's\nterrorist organization the ten rings"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0cc25033-eae9-4e11-a62d-1b2588ec4eef",
+      "start_time": 45,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "unexpectedly attacked by his father's\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0ce0d8f8-819a-43b9-9d33-d517eb9fb2e7",
+      "start_time": 47,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "terrorist organization the ten rings\nhe's forced to return to his old home"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1a6edb6b-3830-4531-a9e0-7a8e59482abb",
+      "start_time": 47,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "terrorist organization the ten rings\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3e7e48e1-018f-42de-8e5b-a1090292607e",
+      "start_time": 49,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "he's forced to return to his old home\nand confront the past he so desperately"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "229ddf96-e7bd-414c-a340-7176cfbb317e",
+      "start_time": 49,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "he's forced to return to his old home\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "78f8b1a5-2e8b-4401-a195-5e50b86c42de",
+      "start_time": 52,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and confront the past he so desperately\ntried to run away from"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "79e961de-76c2-4078-a0ae-6afe58214b7f",
+      "start_time": 52,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and confront the past he so desperately\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c10dc50a-d5f6-4e6e-a5af-0e5fd5d0ae86",
+      "start_time": 54,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "tried to run away from\njohn you are a product of all who came"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1624451d-1d0a-47b7-8abb-21d6068e89b1",
+      "start_time": 54,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "tried to run away from\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "31645b05-032c-4067-80c4-72b362d561b6",
+      "start_time": 56,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "john you are a product of all who came\nbefore you"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "48f4a90a-9dfb-4d32-a9fd-1ccc38beac2b",
+      "start_time": 56,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "john you are a product of all who came\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "72f3bbc2-d583-478c-b564-1163673445ce",
+      "start_time": 58,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "before you\nthe legacy of your family"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0021ff0b-8265-4dfb-b28f-725e3d32057c",
+      "start_time": 58,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "before you\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f1acdc3b-26e5-4cca-8446-4fb5a541cdd9",
+      "start_time": 61,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the legacy of your family\nyou are your mother"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5e592a83-e74e-42db-afdc-ac5df7d75fb4",
+      "start_time": 61,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the legacy of your family\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c62ec236-d4cd-4503-8f46-57a4d03321d2",
+      "start_time": 62,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you are your mother\nand whether you like it or not"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d50816ab-bbe3-42c0-8811-bcc2fed24f52",
+      "start_time": 62,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you are your mother\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b9997415-b17a-4e0f-bbaf-f30bb27a7997",
+      "start_time": 65,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and whether you like it or not\nyou are also your"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f21d42c9-9057-4107-ad82-1f882394fd10",
+      "start_time": 65,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and whether you like it or not\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "80f46f3f-f64e-4a49-b991-19c53d39c278",
+      "start_time": 71,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \nfather i told my men"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a0876f7c-ed95-4c65-9cda-7560af783a9c",
+      "start_time": 71,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fe05ebe6-8143-42f0-909c-07aa3ee79935",
+      "start_time": 74,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "father i told my men\nthey wouldn't be able to kill you if"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4f55a862-31f3-4e47-9bc7-de06d01d5312",
+      "start_time": 74,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "father i told my men\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "40783058-7273-45a4-ad75-441617aa6591",
+      "start_time": 76,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "they wouldn't be able to kill you if\nthey tried"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b2bb2afe-e52f-48fd-81aa-dbec0750aec4",
+      "start_time": 76,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "they wouldn't be able to kill you if\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "db52d99a-43c5-430f-ae70-22192ffb3616",
+      "start_time": 85,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \nglad i was right"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "768a5412-bce6-4f68-a543-ddf05dea0efb",
+      "start_time": 85,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "572d90eb-5dc8-47a8-abf6-31365607875c",
+      "start_time": 88,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "glad i was right\nwithin the past year hollywood has"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cbf5547f-2b3f-40b0-8519-a564330c917d",
+      "start_time": 88,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "glad i was right\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f013e9ec-124b-4c6c-a925-d0e59d277934",
+      "start_time": 90,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "within the past year hollywood has\npresented us with some less than"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b3e920f2-40eb-4d0c-9b72-28922f0a1a88",
+      "start_time": 90,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "within the past year hollywood has\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "eacdde77-537a-4d77-bba8-c1e70b7a8e69",
+      "start_time": 91,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "presented us with some less than\nmediocre asian-led action films the new"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "544347a0-8080-4f44-8a36-615961cc02e2",
+      "start_time": 91,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "presented us with some less than\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fe5eb88d-bf47-46be-a0f6-6feca20de1b7",
+      "start_time": 94,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "mediocre asian-led action films the new\nmortal kombat was painfully cheesy and"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3adf5091-702a-46aa-ab4e-c5752f5bb97c",
+      "start_time": 94,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "mediocre asian-led action films the new\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b337d36b-c8a2-474e-83f0-2ad18b14a6cc",
+      "start_time": 96,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "mortal kombat was painfully cheesy and\nforgettable and the live-action mulan"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "44568c47-b450-4f7b-ac4a-b1a2be98b74b",
+      "start_time": 96,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "mortal kombat was painfully cheesy and\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "50c078c5-5d40-4d99-95d6-8621c6db9747",
+      "start_time": 99,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "forgettable and the live-action mulan\ndisappointed in every way except their"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d8cc23c3-6a10-4057-b40c-44a161917c5c",
+      "start_time": 99,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "forgettable and the live-action mulan\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fe510e52-b9f7-4a42-b7cc-689d0dd1d795",
+      "start_time": 101,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "disappointed in every way except their\ncostumes thankfully director destin"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "78cfed13-a4de-4837-8696-9dd5d67a9eb9",
+      "start_time": 101,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "disappointed in every way except their\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d8f29012-0188-4637-aac6-364c3438cd97",
+      "start_time": 104,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "costumes thankfully director destin\ndaniel [ __ ] incorporates the right"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3573be8d-b532-4a33-81f0-7d9b2811e1fc",
+      "start_time": 104,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "costumes thankfully director destin\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e934bc1e-a769-47d8-bf68-912bffaaab5e",
+      "start_time": 106,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "daniel [ __ ] incorporates the right\namount of humor depth stunning martial"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "43bb4cb3-faa7-4c5b-8a99-838eee9f0aa7",
+      "start_time": 106,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "daniel [ __ ] incorporates the right\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "23d5f494-d941-4648-af7a-619ccea41b7e",
+      "start_time": 108,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "amount of humor depth stunning martial\narts and elements of a fresh perspective"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "73c5b7dc-2584-46db-b360-c5aa7537948e",
+      "start_time": 108,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "amount of humor depth stunning martial\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7f6b42a8-afa0-4827-b321-be5282f9404d",
+      "start_time": 111,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "arts and elements of a fresh perspective\non asian culture throughout the entire"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "963fc4a5-b851-40b3-90cf-669032c98ec9",
+      "start_time": 111,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "arts and elements of a fresh perspective\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ffea33b2-9ce6-4766-9cde-8c4e5bbf2dd3",
+      "start_time": 118,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \nyou have the wrong guy does he look like"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f16b0163-17f6-4025-8f1f-4a1d021fa6d7",
+      "start_time": 118,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "19bd8916-d877-4e55-9063-adeecbc9e5f4",
+      "start_time": 120,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you have the wrong guy does he look like\nhe can fight come on bro"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f26df693-db34-4eec-8f8e-3d90781310e6",
+      "start_time": 120,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you have the wrong guy does he look like\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2629471e-74aa-4698-a74a-ea730a16a140",
+      "start_time": 132,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \nyou okay"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "dc2d19b6-9761-471d-bed1-970def581e8f",
+      "start_time": 132,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0d70cf44-bdcb-4ccf-be68-fc903ea6a350",
+      "start_time": 139,
+      "end_time": 148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \n[Music]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a851b3c1-2703-42ce-95ae-de1ef813e107",
+      "start_time": 139,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2523ed46-fdb4-4d7e-9fa6-f0c16a412b40",
+      "start_time": 148,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \nyo what up y'all it's your boy cliff"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "99326c4c-7fdb-46e1-9570-bc1ca5f2f49e",
+      "start_time": 148,
+      "end_time": 148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "33ccddbc-ff4f-4c96-bd5b-3e7d060399c5",
+      "start_time": 150,
+      "end_time": 152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "yo what up y'all it's your boy cliff\ncoming at you live on the bus"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3312a4db-2e56-4ffc-bf2d-ed9c440bb495",
+      "start_time": 150,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "yo what up y'all it's your boy cliff\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "decd772f-ed5c-4d34-a43b-9c70377ef5a1",
+      "start_time": 152,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "coming at you live on the bus\ni actually did take a little bit of"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b909513e-fdd4-4c8b-bb57-adda7c58c79d",
+      "start_time": 152,
+      "end_time": 152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "coming at you live on the bus\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "55dc1836-e985-45eb-b224-61b0e37c9671",
+      "start_time": 154,
+      "end_time": 156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i actually did take a little bit of\nmartial arts as a youth so i'm gonna try"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "153e7546-6069-44b2-a53d-29748fe18def",
+      "start_time": 154,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i actually did take a little bit of\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "52b1c90b-0cd8-4ae5-b83c-20ac22d88e9d",
+      "start_time": 156,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "martial arts as a youth so i'm gonna try\nand grade this fight as we're going"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "62f907c7-3317-4968-854f-29559f66c4de",
+      "start_time": 156,
+      "end_time": 156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "martial arts as a youth so i'm gonna try\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0b3e4694-93c6-4a21-ae26-9d4e0260c15c",
+      "start_time": 161,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \n[Music]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c6a2fe50-68e6-4076-b056-e5764c349a6f",
+      "start_time": 161,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "20e6fd7b-7875-4917-b759-c29ed99feb43",
+      "start_time": 172,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \nthe look and feel of the film is"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f101963d-9d5f-437d-9fa9-8cd5fbd3e854",
+      "start_time": 172,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "49f77d48-c45d-4f20-8f13-4fbf9732246e",
+      "start_time": 173,
+      "end_time": 176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the look and feel of the film is\nmesmerizing but perhaps what's even more"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "798cd7fb-bc08-479e-834d-ef050b1f169b",
+      "start_time": 173,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the look and feel of the film is\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3ad58960-6e82-4f6c-9693-2497e62af61c",
+      "start_time": 176,
+      "end_time": 178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "mesmerizing but perhaps what's even more\ncaptivating are the performances by this"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c99ae91b-30ff-4731-a7a0-59d2af591cc2",
+      "start_time": 176,
+      "end_time": 176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "mesmerizing but perhaps what's even more\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3871752d-29a9-4402-ad30-b26dc59010bb",
+      "start_time": 178,
+      "end_time": 181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "captivating are the performances by this\noutstanding cast the hilarious aquafina"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bcb17cd1-6405-4d51-a2c4-a8637ea513da",
+      "start_time": 178,
+      "end_time": 178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "captivating are the performances by this\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "33c9c702-f2ec-4497-9724-9a5ddd3363d7",
+      "start_time": 181,
+      "end_time": 183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "outstanding cast the hilarious aquafina\ncontinues to shine as perfectly timed"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7a671de0-a846-446a-a3d8-7967b5dacb55",
+      "start_time": 181,
+      "end_time": 181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "outstanding cast the hilarious aquafina\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d3e5d88d-faa2-45fa-b233-eda8a64362f0",
+      "start_time": 183,
+      "end_time": 187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "continues to shine as perfectly timed\ncomedic relief and simu liu shows off"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "48c06975-a515-4447-8cd9-1da091e676e5",
+      "start_time": 183,
+      "end_time": 183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "continues to shine as perfectly timed\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "01d9b5cb-5dcf-425d-919f-fc0ae53ebcd2",
+      "start_time": 187,
+      "end_time": 189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "comedic relief and simu liu shows off\nhis extensive martial arts and stunt"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3bff066b-7b07-46a1-9a7a-a2ffe57a6726",
+      "start_time": 187,
+      "end_time": 187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "comedic relief and simu liu shows off\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a4b919a2-8c00-401a-b069-f1ea5b9964bd",
+      "start_time": 189,
+      "end_time": 191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "his extensive martial arts and stunt\nwork solidifying him as a multi-talented"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "993298c9-99be-43bd-b2c4-8fd465d25c36",
+      "start_time": 189,
+      "end_time": 189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "his extensive martial arts and stunt\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f6bc791a-9f92-4e02-b889-4af588fb1aad",
+      "start_time": 191,
+      "end_time": 194,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "work solidifying him as a multi-talented\naction star his journey as chongqi is"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "07840829-202b-4867-8773-c3e103b063ab",
+      "start_time": 191,
+      "end_time": 191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "work solidifying him as a multi-talented\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "333393bc-75d8-4043-9115-3d98f0939881",
+      "start_time": 194,
+      "end_time": 197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "action star his journey as chongqi is\nrelatable and moving"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e284eed4-be55-4a43-8f0d-5d3396460a9c",
+      "start_time": 194,
+      "end_time": 194,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "action star his journey as chongqi is\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e8029538-2f44-42bf-b626-51af6a420614",
+      "start_time": 197,
+      "end_time": 199,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "relatable and moving\nhe's just a criminal"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "586f1196-9a00-4d0e-932c-3235ed50575f",
+      "start_time": 197,
+      "end_time": 197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "relatable and moving\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ac2a13e4-886c-410a-ae22-3b4a8bcd85ce",
+      "start_time": 199,
+      "end_time": 201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "he's just a criminal\nwho murders people"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9d7f2454-f550-496a-987e-2d612b2d820e",
+      "start_time": 199,
+      "end_time": 199,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "he's just a criminal\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "96aa5690-1429-4e21-8b39-77fc7e02ac6b",
+      "start_time": 201,
+      "end_time": 207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "who murders people\nbe careful how you speak to me boy"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a0f0fed6-9ce0-42e3-b4af-3f76d1c8618d",
+      "start_time": 201,
+      "end_time": 201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "who murders people\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1d011bdd-ca18-4e34-9683-611f655eaf6a",
+      "start_time": 207,
+      "end_time": 211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \ni made it"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2ef24fe4-347a-4f04-a444-a876480d42c1",
+      "start_time": 207,
+      "end_time": 207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "39450a59-d5f4-4fbe-9c97-cd7c119cb73b",
+      "start_time": 211,
+      "end_time": 214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \ni thought i could change my name"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "db8f1bb1-efb6-4f73-9415-d63cbe78c487",
+      "start_time": 211,
+      "end_time": 211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3e025e3b-b1f8-486e-83d9-5d36772a76f3",
+      "start_time": 214,
+      "end_time": 218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i thought i could change my name\nstart a new life"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8fb37e4a-34de-4712-977a-ac20dcff0bd7",
+      "start_time": 214,
+      "end_time": 214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i thought i could change my name\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "19a6c5ff-6d5e-4228-a56b-2a67072760c2",
+      "start_time": 218,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \nbut i could never"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f1bb8859-e5c9-4e56-a4a5-cd0c2662f909",
+      "start_time": 218,
+      "end_time": 218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8be79ec4-654c-4376-912d-e6c72c1ac26f",
+      "start_time": 220,
+      "end_time": 227,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "but i could never\nescape his shadow"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0d65820b-8349-4810-abd7-3ca9cb6e4c95",
+      "start_time": 220,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "but i could never\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "35374d48-7775-42b2-8028-d2129781004d",
+      "start_time": 227,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \nthough the movie struggles with its"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8b65a02d-cf1c-458b-81f4-70d12238e8b3",
+      "start_time": 227,
+      "end_time": 227,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3adfb5be-e946-4d86-9613-806d86dab351",
+      "start_time": 228,
+      "end_time": 230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "though the movie struggles with its\npacing in the second half this is easily"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c1d459e8-b08c-4033-bdc6-33485b30295c",
+      "start_time": 228,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "though the movie struggles with its\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7a46ab01-6420-43fd-aea6-24ebd47297c6",
+      "start_time": 230,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pacing in the second half this is easily\nforgivable the film provides a well"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a963b41d-fd9c-4d43-822d-d47b9c6c76a7",
+      "start_time": 230,
+      "end_time": 230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pacing in the second half this is easily\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5f821959-89d2-4ab7-b9c5-c35acd0cc95e",
+      "start_time": 232,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "forgivable the film provides a well\nthought out storyline with an emotional"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "01c505f6-c2bc-478d-b4e2-1667a37a1d1f",
+      "start_time": 232,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "forgivable the film provides a well\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0bc8b4a8-ca24-459c-9e2f-b8b51802742e",
+      "start_time": 234,
+      "end_time": 236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "thought out storyline with an emotional\nbackstory and stuns visually with its"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e1e9a29c-7916-478f-aff5-b5f564c0392e",
+      "start_time": 234,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "thought out storyline with an emotional\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "724ed0a9-497c-414e-9ea6-98a05141efc6",
+      "start_time": 236,
+      "end_time": 238,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "backstory and stuns visually with its\nseamless choreography and electrifying"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "265460fb-187a-44ba-80fe-f5ef5ea5b9dc",
+      "start_time": 236,
+      "end_time": 236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "backstory and stuns visually with its\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a60a843b-b301-4ee7-9856-c15d756f6d09",
+      "start_time": 238,
+      "end_time": 241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "seamless choreography and electrifying\nspecial effects it's also the asian"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "69bb773c-645d-410e-93e5-e4dddac9b2f6",
+      "start_time": 238,
+      "end_time": 238,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "seamless choreography and electrifying\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "36d7a1dd-4ba3-4d25-9f35-09ea2f0cc9ed",
+      "start_time": 241,
+      "end_time": 243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "special effects it's also the asian\ninspired action flick audiences have"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "93b17e93-3581-436a-beb8-79795be568b0",
+      "start_time": 241,
+      "end_time": 241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "special effects it's also the asian\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c4e54c40-fadd-40ae-bcd4-7bb8c39025be",
+      "start_time": 243,
+      "end_time": 245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "inspired action flick audiences have\nbeen needing to see as disney continues"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "998d1275-6f4e-494b-a11b-3a62c4e84c34",
+      "start_time": 243,
+      "end_time": 243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "inspired action flick audiences have\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "be1cdb32-352a-4d99-98da-1e9cab2ec7a9",
+      "start_time": 245,
+      "end_time": 247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "been needing to see as disney continues\nto successfully showcase diversity and"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e3b3a80b-3544-4adf-8c99-2968a10820e5",
+      "start_time": 245,
+      "end_time": 245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "been needing to see as disney continues\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2cf0b5fa-3763-49cd-8b80-96a21a02e38c",
+      "start_time": 247,
+      "end_time": 249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to successfully showcase diversity and\ninclusion in their productions shang chi"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "050b8b5f-55ff-41c5-8dcd-34e2e0167cd2",
+      "start_time": 247,
+      "end_time": 247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to successfully showcase diversity and\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1dc8c435-9031-456a-9ec3-68c5c5ecbb66",
+      "start_time": 249,
+      "end_time": 251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "inclusion in their productions shang chi\nin the legend of the ten rings is a high"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "36b5326b-5b7f-4596-b4b1-835f600fc7fd",
+      "start_time": 249,
+      "end_time": 249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "inclusion in their productions shang chi\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "dc8c09fc-da9a-4d7a-b656-41de587d1fb8",
+      "start_time": 251,
+      "end_time": 253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in the legend of the ten rings is a high\nflying adventure you'll want to"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1214f94d-2a1b-4015-a8e6-851123774356",
+      "start_time": 251,
+      "end_time": 251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in the legend of the ten rings is a high\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5a60d790-918f-4a9d-a843-d57cd30ec139",
+      "start_time": 253,
+      "end_time": 256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "flying adventure you'll want to\nexperience safely in theaters for about"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8fb234e3-4227-4b3b-aa99-107a553257de",
+      "start_time": 253,
+      "end_time": 253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "flying adventure you'll want to\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4704ebd5-f4ef-402b-8978-32c84900e52f",
+      "start_time": 256,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "experience safely in theaters for about\ntown this is susan stevens is this what"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "13c156e0-266d-4b05-9a2f-da6575ea6b88",
+      "start_time": 256,
+      "end_time": 256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "experience safely in theaters for about\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b9135005-7e75-4fb0-8f15-5b992cb2cf96",
+      "start_time": 258,
+      "end_time": 261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "town this is susan stevens is this what\nyou wanted"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "91b1458a-edc4-4072-99c7-a2818005b292",
+      "start_time": 258,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "town this is susan stevens is this what\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "124bc59f-5c7d-46fd-b4b7-c2468f5d3f5a",
+      "start_time": 261,
+      "end_time": 269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you wanted\n[Applause]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b28688ed-4d7c-456a-ba32-311359731de0",
+      "start_time": 261,
+      "end_time": 261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you wanted\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "668342df-cce3-4c0f-ba9c-8f3e7da8f3d0",
+      "start_time": 269,
+      "end_time": 273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \nyou got this"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "84d8007d-191e-4659-a6b3-8361160a270a",
+      "start_time": 269,
+      "end_time": 269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ace2b9cb-c22a-4cb9-81a1-0f5442964771",
+      "start_time": 273,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \nthank you"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3339174f-d819-4c99-9f96-f0929f91b13f",
+      "start_time": 273,
+      "end_time": 273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "30647f9e-5d07-457f-b4f9-adaaf030bb9a",
+      "start_time": 275,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "thank you\n[Music]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "18d90ff1-3ea9-4062-8230-ce7853eb1f68",
+      "start_time": 275,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "thank you\n "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ],
   "set": "Default",
   "event_id": "67e5ac61-f5d2-42f9-a3a9-0bad1ce97666",
   "source_id": "f925ad1d-9273-4571-a4c4-9a1715313373"
